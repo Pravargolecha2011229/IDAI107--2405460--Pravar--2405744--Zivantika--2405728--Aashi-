@@ -263,8 +263,9 @@ COOKING_QUIZ = [
     }
 
 ]
-# Initialize the Gemini model
-model = genai.GenerativeModel('gemini-pro')
+
+genai.configure(api_key=GEMINI_API_KEY)
+model = genai.GenerativeModel(model_name='gemini-pro')
 
 # Initialize session state
 
@@ -362,8 +363,7 @@ def get_recipe_from_gemini(ingredients, dietary_restrictions=None):
         prompt += f"\nDietary restrictions: {', '.join(dietary_restrictions)}"
     
     try:
-        
-        model = genai.get_model()  # Initialize the model
+        model = genai.GenerativeModel(model_name='gemini-pro')
         response = model.generate_content(prompt)
         return response.text
     except Exception as e:
