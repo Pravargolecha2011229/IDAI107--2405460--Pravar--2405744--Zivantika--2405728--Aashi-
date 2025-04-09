@@ -364,3 +364,7 @@ Streamlit run 8.py
 
 https://www.canva.com/design/DAGj1VhB5a4/_ztw0xnNVYB4W5fwk9c_pg/edit?utm_content=DAGj1VhB5a4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+
+## Link for FututeEats app:
+
+https://futureeats.streamlit.app/
