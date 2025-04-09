@@ -51,10 +51,13 @@ st.set_page_config(
     layout="wide"
 )
 
-# Configure Gemini API
-GEMINI_API_KEY ="AIzaSyB5vTHMOf-4c6I5Z2T43dbXtW106mhDpVA"
+
+# Replace the direct API key with environment variable
+GEMINI_API_KEY = os.getenv('AIzaSyB5vTHMOf-4c6I5Z2T43dbXtW106mhDpVA')
+if not GEMINI_API_KEY:
+    GEMINI_API_KEY = st.secrets.get("AIzaSyB5vTHMOf-4c6I5Z2T43dbXtW106mhDpVA")
+
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-pro')
 
 # Quiz Questions Database
 COOKING_QUIZ = [
@@ -261,6 +264,8 @@ COOKING_QUIZ = [
 
 ]
 
+model = genai.get_model()  # Initialize the model
+
 # Initialize session state
 
 if 'user_manager' not in st.session_state:
@@ -357,6 +362,8 @@ def get_recipe_from_gemini(ingredients, dietary_restrictions=None):
         prompt += f"\nDietary restrictions: {', '.join(dietary_restrictions)}"
     
     try:
+        
+        model = genai.get_model()  # Initialize the model
         response = model.generate_content(prompt)
         return response.text
     except Exception as e:
