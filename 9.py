@@ -57,7 +57,7 @@ genai.configure(api_key=GEMINI_API_KEY)
 
 try:
     model = genai.GenerativeModel(
-        model_name="gemini-1.0-pro",
+        model_name="gemini-1.5-pro",
         generation_config={
             "temperature": 0.9,
             "top_p": 1,
