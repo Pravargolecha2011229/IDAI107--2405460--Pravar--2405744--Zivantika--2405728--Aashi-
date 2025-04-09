@@ -1,0 +1,1325 @@
+{
+    "": {
+        "password": "LYTpwXs!GjzUW9:",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "Prava": {
+        "password": "LYTpwXs!GjzUW9:",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 6,
+            "correct_answers": 3
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-03 21:18",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-03 21:18",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-03 21:18",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-03 21:19",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-03 21:19",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-03 21:19",
+                "action": "Correct quiz answer",
+                "points": 5
+            }
+        ],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "Prav": {
+        "password": "LYTpwXs!GjzUW9:",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "Pravp": {
+        "password": "LYTpwXs!GjzUW9:",
+        "points": 2,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-03 21:30",
+                "action": "Generated appetizers suggestions",
+                "points": 2
+            }
+        ],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "ldc kj": {
+        "password": "12",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "erlkjnj": {
+        "password": "eprv,",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "knm,": {
+        "password": "kmn ",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "m, ": {
+        "password": "mk",
+        "points": -10,
+        "quiz_stats": {
+            "total_attempts": 1,
+            "correct_answers": 0
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-03 22:17",
+                "action": "Wrong quiz answer",
+                "points": -10
+            }
+        ],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "alpha": {
+        "password": "LYTpwXs!GjzUW9:",
+        "points": 29,
+        "quiz_stats": {
+            "total_attempts": 3,
+            "correct_answers": 1
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-04 07:21",
+                "action": "Added leftover: pumpkin",
+                "points": 2
+            },
+            {
+                "date": "2025-04-04 07:21",
+                "action": "Generated leftover recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 07:23",
+                "action": "Generated personalized menu",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 07:24",
+                "action": "Generated appetizers suggestions",
+                "points": 2
+            },
+            {
+                "date": "2025-04-04 07:25",
+                "action": "Created new event: Party",
+                "points": 10
+            },
+            {
+                "date": "2025-04-04 07:25",
+                "action": "Created new event: Party",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 07:25",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 07:26",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 07:26",
+                "action": "Correct quiz answer",
+                "points": 5
+            }
+        ],
+        "created_recipes": [],
+        "completed_events": [
+            {
+                "name": "Party",
+                "date": "2025-04-17",
+                "guests": 24,
+                "theme": "Asian Fusion",
+                "dietary_restrictions": [
+                    "Vegetarian"
+                ],
+                "menu": {
+                    "Appetizers": "",
+                    "Main Course": "",
+                    "Desserts": "",
+                    "Beverages": ""
+                },
+                "cost_per_person": 200.0,
+                "total_cost": 4800.0,
+                "status": "Upcoming"
+            }
+        ],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [
+            {
+                "name": "Leftover Recipe (2025-04-04 07:21)",
+                "ingredients": [
+                    "pumpkin (170g)"
+                ],
+                "recipe": "## Simple Roasted Pumpkin Puree\n\nThis recipe creates a smooth and flavorful pumpkin puree perfect for pies, soups, or as a side dish.\n\n**Preparation time:** 15 minutes\n**Cooking time:** 30-40 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* Pumpkin (170g), peeled, seeded, and cubed\n* 1 tablespoon olive oil\n* 1/2 teaspoon salt\n* 1/4 teaspoon black pepper\n* 1/4 teaspoon ground cinnamon (optional)\n* 1/4 teaspoon ground ginger (optional)\n* 2 tablespoons water (optional, for blending)\n\n**Equipment:**\n* Baking sheet\n* Parchment paper\n* Blender or food processor\n\n\n**Instructions:**\n\n1. **Preheat oven to 200\u00b0C (400\u00b0F).** Line a baking sheet with parchment paper.\n2. **Prepare the pumpkin:** Peel the pumpkin, remove the seeds and stringy pulp, and cut into roughly 1-inch cubes.  Ensure pieces are relatively uniform in size for even cooking.\n3. **Toss with oil and spices:** In a bowl, combine the pumpkin cubes with olive oil, salt, pepper, and optional spices (cinnamon and ginger). Toss well to coat the pumpkin evenly.\n4. **Roast the pumpkin:** Spread the pumpkin cubes in a single layer on the prepared baking sheet.  Avoid overcrowding the pan.\n5. **Bake for 30-40 minutes,** or until the pumpkin is fork-tender. The edges may start to caramelize slightly.\n6. **Cool slightly:** Remove the baking sheet from the oven and let the pumpkin cool for about 10 minutes.\n7. **Blend the pumpkin:** Transfer the roasted pumpkin cubes to a blender or food processor.  Add 2 tablespoons of water if needed to help achieve a smooth puree. Blend until completely smooth and creamy.  If the puree seems too thick, add a little more water, one tablespoon at a time, until desired consistency is reached.\n8. **Serve or store:**  Serve the pumpkin puree immediately or transfer to an airtight container and store in the refrigerator for up to 5 days or in the freezer for up to 3 months.\n\n\n**Tips and variations:**\n\n* For a sweeter puree, add a tablespoon of maple syrup or brown sugar before blending.\n* Use different spices like nutmeg, allspice, or cloves to customize the flavor.\n* This puree can be used in a variety of dishes, including pies, muffins, breads, soups, and curries.\n* If you prefer a chunkier texture, you can mash the roasted pumpkin with a fork instead of blending it.\n\nEnjoy your homemade pumpkin puree! \n",
+                "date": "2025-04-04 07:21"
+            }
+        ],
+        "leftover_ingredients": [
+            {
+                "name": "pumpkin",
+                "quantity": 170,
+                "date_added": "2025-04-04 07:21"
+            }
+        ],
+        "generated_recipes": []
+    },
+    "Carbonuser": {
+        "password": "123456789",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "Carbonuse": {
+        "password": "12345",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": []
+    },
+    "jhb": {
+        "password": "igu",
+        "points": 100,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-04 13:07",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:09",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:10",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:11",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:12",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:12",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:12",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:13",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:14",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:14",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:15",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:15",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:16",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:16",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:16",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 13:16",
+                "action": "Achievement unlocked: Recipe Rookie",
+                "points": 25
+            }
+        ],
+        "created_recipes": [
+            {
+                "name": "Recipe with avocado",
+                "details": "## Creamy Avocado Toast with Everything Bagel Seasoning\n\n**Preparation time:** 5 minutes\n**Cooking time:** 0 minutes (unless toasting bread)\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 1 ripe avocado\n* 2 slices of bread (sourdough, whole wheat, or your preference)\n* 1/4 lime, juiced\n* Salt and freshly ground black pepper to taste\n* Everything Bagel Seasoning\n* Optional additions: Red pepper flakes, sriracha, feta cheese, sliced tomato\n\n\n**Instructions:**\n\n1. **Toast the bread (optional):** If desired, toast your bread slices to your preferred level of crispness.\n2. **Prepare the avocado:** Cut the avocado in half lengthwise, remove the pit, and scoop the flesh into a small bowl.\n3. **Mash and season:** Mash the avocado with a fork until it reaches your desired consistency.  Some people prefer a chunky mash, while others prefer it completely smooth. Add the lime juice, salt, and pepper to the mashed avocado and mix well.\n4. **Spread on toast:** Spread the avocado mixture evenly over your toasted (or untoasted) bread slices.\n5. **Season generously:** Sprinkle the Everything Bagel Seasoning liberally over the avocado toast.  Be generous!\n6. **Add optional toppings:** If you like, add a pinch of red pepper flakes for a little heat, a drizzle of sriracha, some crumbled feta cheese, or sliced tomatoes for extra flavor and texture.\n7. **Serve immediately:**  Avocado toast is best enjoyed fresh.\n\n\n**Tips and Variations:**\n\n* For a richer flavor, use a high-quality extra virgin olive oil instead of (or in addition to) lime juice.\n* If you don't have Everything Bagel Seasoning, you can create your own by combining sesame seeds, poppy seeds, dried onion flakes, dried garlic flakes, and coarse salt.\n*  A fried egg on top makes this a heartier meal.\n*  Try different types of bread for variety - rye, pumpernickel, or even a bagel!\n* If making a large batch, add the lime juice right before serving to prevent browning. You can also store leftover avocado mash in an airtight container with the pit pressed into the surface to help slow down oxidation. However, it\u2019s best enjoyed fresh. \n",
+                "date": "2025-04-04 13:07",
+                "ingredients": [
+                    "avocado"
+                ]
+            },
+            {
+                "name": "Recipe with bananas",
+                "details": "## Recipe Name: Simple & Sweet Banana Nice Cream\n\n**Preparation time:** 5 minutes\n**Freezing time:** 4-6 hours (or overnight)\n**Cooking time:** 0 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 3 ripe bananas (the riper, the sweeter and creamier!)\n\n**Optional additions for flavor boost (choose one or combine):**\n\n* 1 teaspoon pure vanilla extract\n* 2 tablespoons peanut butter\n* 1/4 cup cocoa powder\n* 1/4 cup chopped nuts (almonds, walnuts, pecans)\n* 1/4 cup chocolate chips\n* Pinch of cinnamon\n* Pinch of salt\n\n\n**Equipment:**\n\n* Food processor or high-powered blender\n* Freezer-safe bag or container\n* Spatula or spoon\n\n\n**Step-by-step instructions:**\n\n\n1. **Peel and slice:** Peel the ripe bananas and slice them into 1/2-inch thick rounds. \n2. **Freeze:** Arrange the banana slices in a single layer on a baking sheet lined with parchment paper or in a freezer-safe bag/container, ensuring they aren't touching too much. Freeze for at least 4-6 hours, or preferably overnight, until solid.\n3. **Blend:**  Add the frozen banana slices to your food processor or high-powered blender.  If using optional additions, add them now as well.\n4. **Process:** Pulse the bananas a few times to break them down. Then, process continuously, scraping down the sides as needed, until the mixture is smooth and creamy, resembling soft-serve ice cream. This may take a few minutes depending on the power of your appliance. If the mixture seems too thick, add a tablespoon of milk (dairy or non-dairy) at a time until you reach your desired consistency.\n5. **Serve immediately:**  For a soft-serve consistency, serve immediately.\n6. **Freeze for later (optional):** If you prefer a firmer consistency, transfer the nice cream to a freezer-safe container and freeze for another 1-2 hours. Allow to soften slightly at room temperature before scooping and serving.\n\n\n\n**Tips and variations:**\n\n\n* **Overripe bananas are best:** They're sweeter and blend into a smoother consistency.\n* **Don't add too much liquid:**  Start with a small amount of milk if needed and add more gradually to avoid a watery consistency.\n* **Get creative with toppings:** Once served, add your favorite toppings like fresh fruit, granola, shredded coconut, chocolate sauce, or a drizzle of honey.\n* **Make it a smoothie:** If you don't want ice cream, add a splash of milk or juice during blending to create a healthy and delicious banana smoothie.\n* **Storage:** Leftover nice cream can be stored in the freezer for up to 2 weeks.  It may become very hard, so allow it to soften in the refrigerator for a few hours before serving. \n",
+                "date": "2025-04-04 13:09",
+                "ingredients": [
+                    "bananas"
+                ]
+            },
+            {
+                "name": "Recipe with berries",
+                "details": "## Recipe Name: Mixed Berry Clafoutis\n\n**Preparation time:** 20 minutes\n**Cooking time:** 35-40 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* **Berries:** 2 cups (mixed berries like raspberries, blueberries, blackberries, and sliced strawberries)\n* **All-purpose flour:** \u00bd cup\n* **Granulated sugar:** \u00bd cup + 1 tablespoon (for sprinkling)\n* **Salt:** \u00bc teaspoon\n* **Eggs:** 3 large\n* **Milk:** \u00be cup\n* **Vanilla extract:** 1 teaspoon\n* **Butter:** 2 tablespoons (melted, for greasing the dish)\n* **Powdered sugar:** (optional, for dusting)\n\n\n**Step-by-step instructions:**\n\n1. **Preheat the oven:** Preheat your oven to 350\u00b0F (175\u00b0C).\n2. **Prepare the baking dish:** Grease a 9-inch pie dish or a similar-sized baking dish with the melted butter.\n3. **Combine dry ingredients:** In a medium bowl, whisk together the flour, \u00bd cup of sugar, and salt.\n4. **Whisk in wet ingredients:** In a separate bowl, whisk together the eggs, milk, and vanilla extract.\n5. **Combine wet and dry ingredients:** Gradually add the wet ingredients to the dry ingredients, whisking constantly until just combined. Do not overmix. The batter will be thin.\n6. **Arrange the berries:** Scatter the berries evenly in the prepared baking dish.\n7. **Pour batter over berries:** Pour the batter over the berries, ensuring they are mostly submerged.\n8. **Sprinkle with sugar:** Sprinkle the remaining 1 tablespoon of granulated sugar over the top of the clafoutis.\n9. **Bake:** Bake for 35-40 minutes, or until the clafoutis is puffed and golden brown, and a toothpick inserted into the center comes out clean.\n10. **Cool and serve:** Let the clafoutis cool slightly before serving.  Dust with powdered sugar, if desired.  It can be enjoyed warm or at room temperature.\n\n\n\n**Tips and Variations:**\n\n* **Berry variations:** Feel free to use any combination of berries you like. Frozen berries can also be used, but do not thaw them before adding them to the dish. The baking time may need to be adjusted slightly.\n* **Citrus zest:** Add the zest of one lemon or orange to the batter for a bright, citrusy flavor.\n* **Almond extract:** Substitute almond extract for vanilla extract for a nutty flavor.\n* **Sweetness adjustment:** Adjust the sugar according to your preference and the sweetness of the berries.\n* **Serving suggestions:** Serve the clafoutis with a dollop of whipped cream, a scoop of vanilla ice cream, or a drizzle of cr\u00e8me anglaise.\n",
+                "date": "2025-04-04 13:10",
+                "ingredients": [
+                    "berries"
+                ]
+            },
+            {
+                "name": "Recipe with avocado, bell peppers, brown rice",
+                "details": "## Rainbow Rice Bowl with Creamy Avocado Dressing\n\n**Preparation Time:** 20 minutes\n**Cooking Time:** 25 minutes\n**Difficulty Level:** Easy\n\nThis vibrant and healthy bowl is packed with flavor and textures, featuring fluffy brown rice, crisp bell peppers, and a creamy avocado dressing.\n\n**Ingredients:**\n\n* 1 cup brown rice\n* 2 cups water\n* 1 red bell pepper, diced\n* 1 yellow bell pepper, diced\n* 1 orange bell pepper, diced\n* 1 ripe avocado\n* 2 tablespoons lime juice\n* 1 tablespoon olive oil\n* 1/4 cup chopped cilantro\n* 1/4 teaspoon cumin\n* Salt and pepper to taste\n* Optional:  Black beans, corn, red onion, cherry tomatoes for extra flavor and protein.\n\n\n**Instructions:**\n\n1. **Cook the Rice:** Rinse the brown rice under cold water until the water runs clear. Combine the rice and water in a medium saucepan. Bring to a boil, then reduce heat to low, cover, and simmer for 45 minutes, or until the water is absorbed and the rice is tender. Fluff with a fork.\n2. **Saut\u00e9 the Bell Peppers:** While the rice is cooking, heat the olive oil in a large skillet over medium heat. Add the diced bell peppers and saut\u00e9 for 5-7 minutes, until they are slightly softened but still crisp-tender. Season with salt and pepper.\n3. **Prepare the Avocado Dressing:** In a small bowl, mash the avocado with a fork. Add the lime juice, cilantro, cumin, salt, and pepper. Mix well until smooth and creamy. If the dressing is too thick, add a tablespoon of water to thin it out.\n4. **Assemble the Bowls:** Divide the cooked brown rice between bowls. Top with the saut\u00e9ed bell peppers. \n5. **Drizzle with Dressing:**  Generously drizzle the avocado dressing over the rice and peppers.\n6. **Add Optional Toppings (if using):**  If you\u2019re adding black beans, corn, red onion, or cherry tomatoes, scatter them over the bowl now. \n7. **Serve immediately** and enjoy your colorful and flavorful Rainbow Rice Bowl!\n\n\n\n**Tips and Variations:**\n\n* For a spicier kick, add a pinch of red pepper flakes to the avocado dressing or saut\u00e9 the bell peppers with a chopped jalape\u00f1o.\n* You can use any combination of bell peppers you like. Green bell peppers work well too.\n*  To save time, you can use pre-cooked brown rice.\n*  Grilled chicken or fish would make a great protein addition to this bowl.\n*  Store leftover rice, peppers, and dressing separately in the refrigerator for up to 3 days. The avocado dressing may brown slightly, but it will still be safe to eat. \n",
+                "date": "2025-04-04 13:11",
+                "ingredients": [
+                    "avocado",
+                    "bell peppers",
+                    "brown rice"
+                ]
+            },
+            {
+                "name": "Recipe with berries, carrots",
+                "details": "## Berry-Glazed Roasted Carrots\n\n**Preparation time:** 15 minutes\n**Cooking time:** 30-40 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 1 lb carrots, peeled and chopped into 1-inch pieces\n* 1 cup mixed berries (fresh or frozen - raspberries, blueberries, blackberries, etc.)\n* 2 tablespoons olive oil\n* 1 tablespoon balsamic vinegar\n* 1 tablespoon honey or maple syrup\n* 1 teaspoon Dijon mustard\n* 1/2 teaspoon ground cinnamon\n* 1/4 teaspoon salt\n* 1/4 teaspoon black pepper\n* Fresh thyme sprigs (optional, for garnish)\n\n**Instructions:**\n\n1. **Preheat oven to 400\u00b0F (200\u00b0C).** Line a baking sheet with parchment paper.\n2. **Prepare the carrots:** Wash, peel, and chop the carrots into roughly 1-inch pieces. If using baby carrots, you can simply halve or quarter them lengthwise.\n3. **Make the berry glaze:** In a small saucepan over medium heat, combine the berries, balsamic vinegar, honey/maple syrup, Dijon mustard, cinnamon, salt, and pepper.\n4. **Cook the glaze:** Bring the mixture to a simmer, stirring occasionally. Reduce heat to low and continue to cook for 5-7 minutes, or until the berries have broken down and the glaze has thickened slightly.  Mash the berries with the back of a spoon or a potato masher to help create a smoother glaze.  If using frozen berries, you may need to cook for a few minutes longer.\n5. **Toss the carrots:** In a large bowl, toss the carrots with the olive oil. Spread them in a single layer on the prepared baking sheet.\n6. **Roast the carrots:** Roast for 20 minutes, then remove from the oven and pour the berry glaze over the carrots. Toss gently to coat.\n7. **Continue roasting:** Return the baking sheet to the oven and roast for another 10-20 minutes, or until the carrots are tender and slightly caramelized. The glaze should be thick and sticky.\n8. **Serve:** Remove the carrots from the oven and let them cool slightly before serving. Garnish with fresh thyme sprigs, if desired.\n\n\n**Tips and Variations:**\n\n* For a sweeter glaze, add more honey or maple syrup.\n* For a tangier glaze, add a squeeze of lemon juice.\n*  If you prefer a smoother glaze, strain the berry mixture through a fine-mesh sieve after cooking to remove any seeds.\n* You can use other root vegetables like parsnips or sweet potatoes in place of some of the carrots.\n* Serve these glazed carrots as a side dish with roasted chicken, pork, or fish. They also make a great addition to salads or grain bowls. \n",
+                "date": "2025-04-04 13:12",
+                "ingredients": [
+                    "berries",
+                    "carrots"
+                ]
+            },
+            {
+                "name": "Recipe with berries, carrots, avocado, bell peppers",
+                "details": "## Rainbow Veggie & Berry Salad with Avocado-Lime Dressing\n\nThis vibrant salad combines the sweetness of berries with the crunch of fresh vegetables and the creaminess of avocado.\n\n**Preparation Time:** 20 minutes\n**Cooking Time:** None\n**Difficulty Level:** Easy\n\n**Ingredients:**\n\n* **Salad:**\n    * 1 cup mixed berries (strawberries, blueberries, raspberries, blackberries)\n    * 2 medium carrots, peeled and thinly sliced or grated\n    * 1 ripe avocado, diced\n    * 1 red bell pepper, thinly sliced\n    * 1 yellow or orange bell pepper, thinly sliced\n    * \u00bd cup fresh cilantro, chopped (optional)\n\n* **Avocado-Lime Dressing:**\n    * 1 ripe avocado\n    * \u00bc cup lime juice (about 2 limes)\n    * 2 tablespoons water\n    * 1 tablespoon olive oil\n    * \u00bd teaspoon ground cumin\n    * Salt and pepper to taste\n\n\n**Instructions:**\n\n1. **Prepare the vegetables:** Wash and slice the bell peppers and carrots.  If using cilantro, wash and chop it.\n2. **Make the Avocado-Lime Dressing:** In a blender or food processor, combine the ripe avocado, lime juice, water, olive oil, cumin, salt, and pepper.  Blend until smooth and creamy. Add more water, 1 tablespoon at a time, if needed to reach desired consistency.\n3. **Assemble the salad:** In a large bowl, combine the mixed berries, sliced carrots, diced avocado, and sliced bell peppers. If using, add the chopped cilantro.\n4. **Dress the salad:** Drizzle the avocado-lime dressing over the salad and gently toss to coat.\n5. **Serve immediately:** Enjoy the fresh and flavorful salad!\n\n\n**Tips & Variations:**\n\n* **For a heartier salad:** Add grilled chicken, shrimp, or tofu.\n* **Spice it up:** Add a pinch of red pepper flakes to the dressing.\n* **Make it ahead:** Prepare the dressing and chop the vegetables ahead of time. Store them separately in airtight containers in the refrigerator. Combine and dress the salad just before serving.\n* **Substitute ingredients:** Feel free to substitute your favorite berries or other vegetables like cucumber, spinach, or red onion.\n* **Add nuts or seeds:** Toasted sunflower seeds, pumpkin seeds, or slivered almonds would add a nice crunch.\n\n\nEnjoy this healthy and delicious salad! \n",
+                "date": "2025-04-04 13:12",
+                "ingredients": [
+                    "berries",
+                    "carrots",
+                    "avocado",
+                    "bell peppers"
+                ]
+            },
+            {
+                "name": "Recipe with berries, carrots, avocado, bell peppers, bread, chickpeas, cucumber",
+                "details": "## Rainbow Veggie & Chickpea Salad with Berry Vinaigrette\n\nThis vibrant salad is packed with nutrients and flavour, making it a perfect light lunch or side dish.\n\n**Preparation time:** 20 minutes\n**Cooking time:** 10 minutes (for toasting bread, optional)\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* **Salad:**\n    * 1 cup mixed berries (strawberries, blueberries, raspberries)\n    * 2 medium carrots, peeled and thinly sliced or grated\n    * 1 ripe avocado, diced\n    * 1 bell pepper (any colour), thinly sliced\n    * 1 cucumber, thinly sliced or diced\n    * 1 can (15 oz) chickpeas, rinsed and drained\n    * 2 slices of whole-wheat bread (optional, for croutons)\n* **Vinaigrette:**\n    * 2 tablespoons olive oil\n    * 1 tablespoon lemon juice\n    * 1 tablespoon balsamic vinegar\n    * 1 teaspoon honey or maple syrup\n    * Salt and pepper to taste\n\n\n**Step-by-step instructions:**\n\n1. **Prepare the croutons (optional):** Preheat oven to 375\u00b0F (190\u00b0C). Cut bread into small cubes. Toss with 1 tablespoon of olive oil, salt, and pepper. Spread on a baking sheet and bake for 8-10 minutes, or until golden brown and crispy.  Set aside to cool.\n2. **Make the berry vinaigrette:** In a small bowl, whisk together olive oil, lemon juice, balsamic vinegar, honey/maple syrup, salt, and pepper.  Set aside \u00bc cup of the berries for the salad. Add the remaining berries to the vinaigrette and gently mash them with a fork to release their juices.\n3. **Prepare the salad:** In a large bowl, combine the carrots, avocado, bell pepper, cucumber, and chickpeas. \n4. **Assemble the salad:** Add the reserved \u00bc cup of berries to the salad. Pour the berry vinaigrette over the salad and toss gently to combine.\n5. **Serve:**  If using croutons, sprinkle them over the salad just before serving. Enjoy!\n\n\n**Tips and variations:**\n\n* **Add protein:**  Grilled chicken, tofu, or feta cheese would be great additions to this salad.\n* **Spice it up:** Add a pinch of red pepper flakes to the vinaigrette for a little heat.\n* **Herb it up:** Fresh herbs like mint, cilantro, or parsley would add a lovely flavour to the salad.\n* **Vary the veggies:** Feel free to substitute other vegetables you enjoy, such as spinach, tomatoes, or red onion.\n* **Make it a wrap:**  Use large lettuce leaves or whole-wheat tortillas to make wraps with the salad filling.\n\n\nEnjoy your delicious and colourful Rainbow Veggie & Chickpea Salad! \n",
+                "date": "2025-04-04 13:12",
+                "ingredients": [
+                    "berries",
+                    "carrots",
+                    "avocado",
+                    "bell peppers",
+                    "bread",
+                    "chickpeas",
+                    "cucumber"
+                ]
+            },
+            {
+                "name": "Recipe with bananas, chicken breast",
+                "details": "## Tropical Glazed Chicken with Caramelized Bananas\n\nThis recipe offers a surprisingly delicious blend of sweet and savory flavors.\n\n**Preparation Time:** 20 minutes\n**Cooking Time:** 30 minutes\n**Difficulty Level:** Medium\n\n**Ingredients:**\n\n* 2 boneless, skinless chicken breasts\n* 2 ripe bananas, sliced diagonally\n* 1/4 cup orange juice\n* 2 tablespoons soy sauce\n* 1 tablespoon honey\n* 1 tablespoon brown sugar\n* 1 teaspoon ground ginger\n* 1/2 teaspoon garlic powder\n* 1/4 teaspoon red pepper flakes (optional, for heat)\n* 2 tablespoons olive oil\n* Salt and pepper to taste\n* Fresh cilantro or parsley, chopped (for garnish, optional)\n\n**Instructions:**\n\n1. **Prepare the Glaze:** In a small bowl, whisk together orange juice, soy sauce, honey, brown sugar, ginger, garlic powder, and red pepper flakes (if using). Set aside.\n2. **Prepare the Chicken:**  Pat the chicken breasts dry with paper towels. Season both sides with salt and pepper.\n3. **Sear the Chicken:** Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Add the chicken breasts and sear for 3-4 minutes per side, until golden brown.  Do not fully cook the chicken at this stage. Remove the chicken from the skillet and set aside.\n4. **Caramelize the Bananas:**  Add the remaining 1 tablespoon of olive oil to the skillet. Add the sliced bananas and cook for 2-3 minutes per side, until they are caramelized and slightly softened. Remove the bananas from the skillet and set aside.\n5. **Glaze and Cook the Chicken:** Return the chicken breasts to the skillet. Pour the glaze over the chicken.  Bring the glaze to a simmer, then reduce the heat to low, cover the skillet, and cook for 10-15 minutes, or until the chicken is cooked through and the glaze has thickened slightly.  Flip the chicken halfway through cooking to ensure even coating.\n6. **Combine and Serve:** Add the caramelized bananas back to the skillet during the last 2-3 minutes of cooking to warm them through and coat them in the glaze.\n7. **Garnish and Serve:**  Serve the chicken and bananas over rice, quinoa, or couscous. Garnish with fresh cilantro or parsley, if desired.\n\n\n**Tips and Variations:**\n\n* For a thicker glaze, whisk together 1 tablespoon of cornstarch with 2 tablespoons of water and add it to the glaze during the last few minutes of cooking.\n* You can substitute pineapple juice for orange juice for a different flavor profile.\n* Add other vegetables like bell peppers or onions to the skillet along with the bananas for a more complete meal.\n* If you don't have fresh herbs for garnish, a sprinkle of toasted sesame seeds also works well. \nEnjoy your Tropical Glazed Chicken with Caramelized Bananas! \n",
+                "date": "2025-04-04 13:13",
+                "ingredients": [
+                    "bananas",
+                    "chicken breast"
+                ]
+            },
+            {
+                "name": "Recipe with bell peppers, brown rice",
+                "details": "## Colorful Bell Pepper & Brown Rice Pilaf\n\n**Preparation Time:** 15 minutes\n**Cooking Time:** 40 minutes\n**Difficulty Level:** Easy\n\n**Ingredients:**\n\n* 1 cup brown rice\n* 2 cups vegetable broth (or water)\n* 1 tablespoon olive oil\n* 1 medium onion, chopped\n* 2 cloves garlic, minced\n* 1 red bell pepper, chopped\n* 1 yellow bell pepper, chopped\n* 1/2 orange bell pepper, chopped (optional, for extra color)\n* 1/2 cup chopped fresh parsley\n* 1/4 cup chopped fresh cilantro\n* 1 teaspoon dried oregano\n* 1/2 teaspoon salt\n* 1/4 teaspoon black pepper\n\n\n**Instructions:**\n\n1. **Rinse the rice:** Place the brown rice in a fine-mesh sieve and rinse under cold water until the water runs clear. This helps remove excess starch and results in fluffier rice.\n\n2. **Saut\u00e9 the aromatics:** Heat the olive oil in a medium saucepan over medium heat. Add the chopped onion and cook for 5-7 minutes, or until softened. Add the minced garlic and cook for another minute, until fragrant.\n\n3. **Add the bell peppers:** Add the chopped bell peppers to the saucepan and cook for 5-7 minutes, or until slightly softened, stirring occasionally.\n\n4. **Toast the rice:** Add the rinsed brown rice to the saucepan and stir to combine with the vegetables and aromatics. Cook for 1-2 minutes, stirring constantly, to lightly toast the rice. This enhances the nutty flavor.\n\n5. **Add the broth and seasonings:** Pour in the vegetable broth (or water), oregano, salt, and pepper. Stir well to combine.\n\n6. **Simmer the rice:** Bring the mixture to a boil, then reduce the heat to low, cover the saucepan tightly, and simmer for 35-40 minutes, or until the rice is tender and the liquid has been absorbed.  Do not lift the lid during the simmering process.\n\n7. **Fluff and serve:** Once the rice is cooked, remove from the heat and let it stand, covered, for 5-10 minutes. Fluff the rice with a fork, then stir in the chopped parsley and cilantro.\n\n8. **Serve hot:** Serve the Colorful Bell Pepper & Brown Rice Pilaf as a side dish or a light vegetarian meal.  It pairs well with grilled chicken, fish, or tofu.\n\n\n**Optional additions:**\n\n* For a spicier dish, add a pinch of red pepper flakes or a diced jalape\u00f1o pepper along with the garlic.\n* For a richer flavor, use chicken broth instead of vegetable broth.\n* Add other vegetables like chopped zucchini, carrots, or mushrooms along with the bell peppers.\n* To make it a complete protein, stir in some cooked black beans or chickpeas after fluffing the rice.\n* Top with crumbled feta cheese or a dollop of plain yogurt for a creamy touch. \n",
+                "date": "2025-04-04 13:14",
+                "ingredients": [
+                    "bell peppers",
+                    "brown rice"
+                ]
+            },
+            {
+                "name": "Recipe with bell peppers, brown rice, salmon",
+                "details": "## Colorful Salmon & Brown Rice Stuffed Bell Peppers\n\n**Preparation time:** 20 minutes\n**Cooking time:** 45 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 4 large bell peppers (various colors preferred)\n* 1 cup uncooked brown rice\n* 1.5 lbs salmon fillet, skin removed and diced\n* 1 medium onion, chopped\n* 2 cloves garlic, minced\n* 1 cup vegetable broth\n* 1/2 cup chopped fresh cilantro\n* 1/4 cup chopped fresh parsley\n* 1 tbsp olive oil\n* 1 tsp chili powder\n* 1/2 tsp cumin\n* 1/4 tsp smoked paprika\n* Salt and black pepper to taste\n* 1 cup shredded cheddar cheese (optional)\n\n\n**Instructions:**\n\n1. **Prepare the bell peppers:** Preheat oven to 375\u00b0F (190\u00b0C).  Cut the bell peppers in half lengthwise and remove the seeds and membranes. Rinse the peppers and place them cut-side up in a baking dish.\n2. **Cook the brown rice:** In a medium saucepan, bring 2 cups of water to a boil. Add the brown rice and a pinch of salt. Reduce heat to low, cover, and simmer for 40-45 minutes, or until the water is absorbed and the rice is tender.\n3. **Saut\u00e9 the aromatics:** While the rice cooks, heat olive oil in a large skillet over medium heat. Add the chopped onion and saut\u00e9 for 5 minutes, or until softened. Add the minced garlic and cook for another minute, until fragrant.\n4. **Cook the salmon:**  Add the diced salmon to the skillet and cook for 5-7 minutes, breaking it up with a spatula, until it's cooked through and lightly browned.\n5. **Combine ingredients:**  Add the cooked brown rice, chopped cilantro, parsley, chili powder, cumin, smoked paprika, salt, and pepper to the skillet with the salmon and onion mixture. Stir well to combine.\n6. **Stuff the peppers:** Spoon the salmon and rice mixture evenly into the prepared bell pepper halves.\n7. **Bake:** Pour the vegetable broth into the bottom of the baking dish. Cover the dish tightly with aluminum foil and bake for 30 minutes.\n8. **Finish baking (optional cheese):** Remove the foil and, if desired, sprinkle the stuffed peppers with shredded cheddar cheese. Bake uncovered for another 10-15 minutes, or until the cheese is melted and bubbly and the peppers are tender.\n9. **Serve:** Let the stuffed peppers cool slightly before serving. Garnish with extra cilantro or parsley if desired.\n\n\n**Tips & Variations:**\n\n* For a spicier dish, add a pinch of cayenne pepper or some chopped jalape\u00f1o to the filling.\n* You can substitute other grains like quinoa or couscous for the brown rice.\n*  Different types of cheese can be used, such as Monterey Jack or pepper jack.\n*  Add other vegetables like chopped zucchini, corn, or black beans to the filling for extra nutrients and flavor.\n* Leftovers can be stored in an airtight container in the refrigerator for up to 3 days.  Reheat in the microwave or oven. \n",
+                "date": "2025-04-04 13:14",
+                "ingredients": [
+                    "bell peppers",
+                    "brown rice",
+                    "salmon"
+                ]
+            },
+            {
+                "name": "Recipe with brown rice, spinach",
+                "details": "## Simple Saut\u00e9ed Spinach with Brown Rice\n\n**Preparation time:** 5 minutes\n**Cooking time:** 45 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 1 cup brown rice\n* 2 cups water\n* 1 tablespoon olive oil\n* 2 cloves garlic, minced\n* 5 oz (140g) fresh spinach, washed and roughly chopped\n* 1/4 teaspoon salt\n* 1/4 teaspoon black pepper\n* 1/2 lemon, juiced (optional)\n\n\n**Instructions:**\n\n1. **Cook the brown rice:** In a medium saucepan, combine the brown rice and water. Bring to a boil over high heat. Once boiling, reduce heat to low, cover, and simmer for 40-45 minutes, or until all the water is absorbed and the rice is tender.\n2. **Saut\u00e9 the garlic:** While the rice is cooking, heat the olive oil in a large skillet over medium heat. Add the minced garlic and saut\u00e9 for about 30 seconds, or until fragrant. Be careful not to burn the garlic.\n3. **Add the spinach:** Add the chopped spinach to the skillet and saut\u00e9 for 2-3 minutes, or until wilted. Stir frequently to ensure even cooking.\n4. **Season:** Season the spinach with salt and pepper. \n5. **Combine and serve:** Once the rice is cooked, fluff it with a fork. Add the saut\u00e9ed spinach to the rice and mix well.  Squeeze fresh lemon juice over the rice and spinach mixture just before serving, if desired.\n\n\n**Tips and variations:**\n\n* For extra flavor, add a pinch of red pepper flakes to the garlic while saut\u00e9ing.\n* You can substitute other greens for spinach, such as kale or chard.  Adjust cooking time as needed.\n* To make this a complete meal, add some cooked chickpeas or lentils to the rice and spinach mixture for extra protein.\n*  A sprinkle of grated Parmesan cheese adds a delicious salty and savory element.\n*  Chopped toasted nuts like slivered almonds or pine nuts would also complement this dish.\n",
+                "date": "2025-04-04 13:15",
+                "ingredients": [
+                    "brown rice",
+                    "spinach"
+                ]
+            },
+            {
+                "name": "Recipe with carrots",
+                "details": "## Honey-Glazed Roasted Carrots with Thyme\n\n**Preparation time:** 15 minutes\n**Cooking time:** 30-40 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 1 lb carrots, peeled and cut into 1-inch thick pieces (about 4-5 medium carrots)\n* 2 tablespoons olive oil\n* 2 tablespoons honey\n* 1 tablespoon fresh thyme leaves (or 1 teaspoon dried thyme)\n* 1/2 teaspoon salt\n* 1/4 teaspoon black pepper\n\n**Equipment:**\n* Large bowl\n* Baking sheet\n* Parchment paper (optional)\n\n\n**Instructions:**\n\n1. **Preheat the oven:** Preheat your oven to 400\u00b0F (200\u00b0C). Line a baking sheet with parchment paper for easier cleanup (optional).\n2. **Prepare the carrots:** Wash, peel, and cut the carrots into 1-inch thick pieces. If your carrots are very thin, you can halve them lengthwise instead of chopping.  Try to keep the pieces relatively uniform in size for even cooking.\n3. **Combine ingredients:** In a large bowl, toss the carrots with olive oil, honey, thyme leaves, salt, and pepper. Ensure all carrot pieces are evenly coated.\n4. **Arrange on baking sheet:** Spread the carrots in a single layer on the prepared baking sheet. Avoid overcrowding, as this will lead to steaming instead of roasting.\n5. **Roast the carrots:** Roast for 30-40 minutes, or until the carrots are tender and slightly caramelized. You can test for doneness by piercing a carrot with a fork.  Flip the carrots halfway through the cooking time for even browning.\n6. **Serve:** Remove the carrots from the oven and serve immediately.  They are delicious as a side dish with roasted meats, poultry, or fish.  They can also be enjoyed as part of a vegetarian or vegan meal.\n\n\n**Tips and Variations:**\n\n* **Spice it up:** Add a pinch of red pepper flakes for a little heat.\n* **Citrus zest:** Add the zest of one orange or lemon for a bright, citrusy flavor.\n* **Garlic lover?:** Roast a few cloves of garlic alongside the carrots. Toss them with the carrots after roasting for an extra layer of flavor.\n* **Maple syrup:** Substitute maple syrup for honey for a different flavor profile.\n* **Herbs:** Experiment with other herbs like rosemary or sage.\n* **Glaze variation:** For a thicker glaze, whisk together 1 tablespoon honey and 1 tablespoon balsamic vinegar. Drizzle over the carrots during the last 10 minutes of cooking.\n\n\nEnjoy your delicious and easy honey-glazed roasted carrots! \n",
+                "date": "2025-04-04 13:15",
+                "ingredients": [
+                    "carrots"
+                ]
+            },
+            {
+                "name": "Recipe with quinoa, mango",
+                "details": "## Tropical Quinoa Salad with Mango & Lime\n\n**Preparation time:** 15 minutes\n**Cooking time:** 20 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 1 cup quinoa, rinsed\n* 2 cups water\n* 1 ripe mango, diced\n* 1/2 red onion, finely chopped\n* 1/4 cup fresh cilantro, chopped\n* 2 tablespoons lime juice\n* 1 tablespoon olive oil\n* 1/2 teaspoon ground cumin\n* Salt and pepper to taste\n* Optional: 1/4 cup chopped red bell pepper, 1/4 cup toasted coconut flakes\n\n**Step-by-step instructions:**\n\n1. **Cook the quinoa:** In a medium saucepan, combine the rinsed quinoa and water. Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until all the water is absorbed and the quinoa is cooked through. Fluff with a fork and set aside to cool slightly.\n\n2. **Prepare the mango and other ingredients:** While the quinoa is cooking, dice the mango, finely chop the red onion and cilantro (and red bell pepper, if using).\n\n3. **Make the dressing:** In a small bowl, whisk together the lime juice, olive oil, ground cumin, salt, and pepper.\n\n4. **Combine the salad:** In a large bowl, combine the cooked quinoa, diced mango, red onion, cilantro (and red bell pepper, if using).\n\n5. **Dress the salad:** Pour the dressing over the salad and toss gently to combine.\n\n6. **Chill and serve:** Cover the salad and refrigerate for at least 30 minutes to allow the flavors to meld.  Before serving, sprinkle with toasted coconut flakes (if using) and give it another gentle toss.\n\n\n**Tips and variations:**\n\n* For a spicier kick, add a pinch of red pepper flakes to the dressing.\n*  Avocado makes a great addition to this salad. Dice it up and add it just before serving.\n*  Black beans or chickpeas can be added for extra protein.\n*  If you don't have fresh cilantro, you can substitute with dried cilantro or parsley.\n* This salad can be made ahead of time and stored in the refrigerator for up to 3 days.\n\n\nEnjoy this refreshing and healthy Tropical Quinoa Salad! \n",
+                "date": "2025-04-04 13:16",
+                "ingredients": [
+                    "quinoa",
+                    "mango"
+                ]
+            },
+            {
+                "name": "Recipe with quinoa, mango, kale",
+                "details": "## Tropical Quinoa Kale Salad with Mango\n\n**Preparation Time:** 15 minutes\n**Cooking Time:** 20 minutes\n**Difficulty Level:** Easy\n\n**Ingredients:**\n\n* 1 cup quinoa, rinsed\n* 2 cups water\n* 1 ripe mango, diced\n* 1 bunch kale, stems removed and chopped\n* 1/4 cup red onion, thinly sliced\n* 1/4 cup toasted almonds, roughly chopped (optional)\n* 2 tablespoons lime juice\n* 2 tablespoons olive oil\n* 1 tablespoon honey or maple syrup\n* 1/2 teaspoon ground cumin\n* Salt and pepper to taste\n\n\n**Instructions:**\n\n1. **Cook the Quinoa:** In a medium saucepan, combine the rinsed quinoa and water. Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until the water is absorbed and the quinoa is cooked through. Fluff with a fork and set aside to cool slightly.\n\n2. **Prepare the Kale:** While the quinoa is cooking, massage the chopped kale with 1 tablespoon of olive oil for 2-3 minutes. This helps to soften the kale and make it more palatable.\n\n3. **Make the Dressing:** In a small bowl, whisk together the lime juice, remaining olive oil, honey/maple syrup, cumin, salt, and pepper. \n\n4. **Assemble the Salad:** In a large bowl, combine the cooked quinoa, massaged kale, diced mango, and red onion. \n\n5. **Dress the Salad:** Pour the dressing over the salad and toss gently to combine.\n\n6. **Add the Crunch (Optional):** If using, sprinkle the toasted almonds over the salad.\n\n7. **Serve:** Serve the salad immediately or chill for later. It's delicious served warm, room temperature, or cold.\n\n\n**Tips and Variations:**\n\n* For a spicier salad, add a pinch of red pepper flakes to the dressing.\n* Other fruits like pineapple, papaya, or strawberries can be substituted for mango.\n* Different nuts or seeds, such as sunflower seeds, pumpkin seeds, or pecans, can be used instead of almonds.\n* Add some protein! Grilled chicken, shrimp, or chickpeas would be a great addition.\n* For a vegan version, use agave nectar or maple syrup instead of honey.\n* If you don't have time to toast almonds, use them raw or substitute with another crunchy element like toasted coconut flakes. \n* Feel free to adjust the amount of dressing to your preference.\n\n\nEnjoy this vibrant and healthy salad! \n",
+                "date": "2025-04-04 13:16",
+                "ingredients": [
+                    "quinoa",
+                    "mango",
+                    "kale"
+                ]
+            },
+            {
+                "name": "Recipe with quinoa, mango, bell peppers",
+                "details": "## Rainbow Quinoa Salad with Mango and Bell Peppers\n\n**Preparation time:** 15 minutes\n**Cooking time:** 20 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 1 cup quinoa, rinsed\n* 2 cups water\n* 1 ripe mango, diced\n* 1 red bell pepper, diced\n* 1 yellow bell pepper, diced\n* 1/2 red onion, finely chopped\n* 1/4 cup chopped fresh cilantro\n* 2 tablespoons lime juice\n* 2 tablespoons olive oil\n* 1 teaspoon ground cumin\n* 1/2 teaspoon chili powder (optional)\n* Salt and pepper to taste\n\n\n**Step-by-step instructions:**\n\n1. **Cook the quinoa:** In a medium saucepan, combine the rinsed quinoa and water. Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until all the water is absorbed and the quinoa is cooked through. Fluff with a fork and set aside to cool slightly.\n2. **Prepare the vegetables and mango:** While the quinoa is cooking, dice the mango and bell peppers into bite-sized pieces. Finely chop the red onion.\n3. **Make the dressing:** In a small bowl, whisk together the lime juice, olive oil, cumin, chili powder (if using), salt, and pepper.\n4. **Combine the salad:** In a large bowl, combine the cooked quinoa, diced mango, bell peppers, and red onion. \n5. **Dress the salad:** Pour the dressing over the salad and toss gently to combine.\n6. **Add the cilantro:**  Just before serving, stir in the chopped cilantro.\n7. **Serve:** Serve the salad warm or cold. It's delicious on its own or as a side dish with grilled chicken, fish, or tofu.\n\n\n**Tips and Variations:**\n\n* For a spicier salad, add more chili powder or a pinch of cayenne pepper.\n* Add other vegetables like corn, black beans, or avocado for a heartier salad.\n* Toasted nuts or seeds like slivered almonds or pumpkin seeds add a nice crunch.\n* Feta cheese or goat cheese can be crumbled over the salad for extra flavor.\n* Leftovers can be stored in an airtight container in the refrigerator for up to 3 days.  The mango might release some juice, so drain before serving if needed. \n",
+                "date": "2025-04-04 13:16",
+                "ingredients": [
+                    "quinoa",
+                    "mango",
+                    "bell peppers"
+                ]
+            }
+        ],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": [],
+        "achievements": [
+            {
+                "name": "Recipe Rookie",
+                "earned_on": "2025-04-04 13:16",
+                "description": "Generate 15 recipes"
+            }
+        ]
+    },
+    "khb": {
+        "password": "lkn",
+        "points": 0,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": [],
+        "friends": [
+            "alpha"
+        ],
+        "achievements": []
+    },
+    "Jay ": {
+        "password": "abcd",
+        "points": 60,
+        "quiz_stats": {
+            "total_attempts": 17,
+            "correct_answers": 12
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-04 14:49",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:49",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:49",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:50",
+                "action": "Achievement unlocked: Perfect Streak",
+                "points": 50
+            },
+            {
+                "date": "2025-04-04 14:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:51",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:51",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:51",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:51",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:52",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:52",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:52",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:52",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:52",
+                "action": "Correct quiz answer",
+                "points": 5
+            }
+        ],
+        "created_recipes": [],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": [],
+        "friends": [],
+        "achievements": [
+            {
+                "name": "Perfect Streak",
+                "earned_on": "2025-04-04 14:50",
+                "description": "Get 5 correct answers in a row"
+            }
+        ],
+        "current_streak": 2
+    },
+    "Prashant ": {
+        "password": "ttt",
+        "points": 110,
+        "quiz_stats": {
+            "total_attempts": 33,
+            "correct_answers": 24
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-04 14:55",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:55",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:55",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:55",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Achievement unlocked: Perfect Streak",
+                "points": 50
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:56",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:57",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:57",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:57",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:57",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:57",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:57",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:57",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:58",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:58",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:58",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:58",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:58",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:59",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:59",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:59",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:59",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:59",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:59",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 14:59",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 14:59",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 15:00",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-04 15:01",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 15:01",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 15:01",
+                "action": "Correct quiz answer",
+                "points": 5
+            }
+        ],
+        "created_recipes": [
+            {
+                "name": "Recipe with oats",
+                "details": "## Creamy Stovetop Oatmeal\n\n**Preparation time:** 5 minutes\n**Cooking time:** 5-7 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 1 cup rolled oats (not instant)\n* 2 cups water or milk (or a combination)\n* Pinch of salt\n* Optional additions:\n    * 1 tablespoon chia seeds or flax seeds (for extra nutrition and thickness)\n    * 1/2 teaspoon vanilla extract\n    * Sweetener of choice (maple syrup, honey, brown sugar)\n    * Toppings (fresh or dried fruit, nuts, seeds, cinnamon, nut butter)\n\n**Instructions:**\n\n1. **Combine ingredients:** In a medium saucepan, combine rolled oats, water (or milk/combination), and salt. If using chia or flax seeds, add them now as well.\n2. **Bring to a boil:**  Over medium-high heat, bring the mixture to a rolling boil, stirring occasionally.\n3. **Reduce heat and simmer:** Once boiling, reduce the heat to low or medium-low and let the oatmeal simmer for 5-7 minutes, or until it reaches your desired consistency. Stir frequently to prevent sticking to the bottom of the pan.  If the oatmeal becomes too thick, add a splash more water or milk.\n4. **Stir in flavorings (optional):** If using vanilla extract or sweetener, stir it in once the oatmeal is cooked to your liking.\n5. **Serve and enjoy:** Pour the oatmeal into a bowl and add your favorite toppings. Enjoy it warm!\n\n**Tips and Variations:**\n\n* **For creamier oatmeal:** Use milk instead of water, or a combination of both.  You can also blend a portion of the cooked oatmeal with an immersion blender for an extra creamy texture.\n* **Overnight oats:** Combine oats, liquid, chia seeds (if using), and sweetener in a jar or container. Stir well, cover, and refrigerate overnight. In the morning, add your desired toppings and enjoy cold.\n* **Baked oatmeal:** Combine oats, milk, eggs, sweetener, and spices in a baking dish. Bake at 375\u00b0F (190\u00b0C) for 30-40 minutes, or until golden brown and set.\n* **Savory oatmeal:**  Instead of sweet toppings, try savory options like a fried egg, saut\u00e9ed vegetables, cheese, or a sprinkle of everything bagel seasoning.  Omit any sweetener and add more salt or spices to taste. \n",
+                "date": "2025-04-04 14:55",
+                "ingredients": [
+                    "oats"
+                ]
+            },
+            {
+                "name": "Recipe with oats, brown rice",
+                "details": "## Hearty Oat & Brown Rice Porridge\n\n**Preparation time:** 5 minutes\n**Cooking time:** 45-55 minutes\n**Difficulty level:** Easy\n\nThis recipe provides a warm and comforting bowl of porridge, packed with fiber and nutrients from oats and brown rice. It's a great way to start your day or enjoy a nourishing meal anytime.\n\n\n**Ingredients:**\n\n* 1/2 cup rolled oats\n* 1/4 cup brown rice\n* 2 1/2 cups water (or milk for a creamier texture)\n* 1/2 teaspoon salt\n* Optional toppings:\n    * 1/4 cup chopped nuts (almonds, walnuts, pecans)\n    * 1/4 cup dried fruit (cranberries, raisins, apricots)\n    * 1 tablespoon honey or maple syrup\n    * 1/2 teaspoon cinnamon\n    * 1/4 teaspoon ground ginger\n    * Pinch of nutmeg\n    * Fresh or frozen berries\n\n\n**Instructions:**\n\n1. **Rinse the brown rice:** Place the brown rice in a fine-mesh sieve and rinse it under cold water until the water runs clear. This helps remove excess starch and any debris.\n2. **Combine ingredients in a saucepan:**  Add the rinsed brown rice, rolled oats, water (or milk), and salt to a medium-sized saucepan. \n3. **Bring to a boil:** Over medium-high heat, bring the mixture to a rolling boil, stirring occasionally.\n4. **Reduce heat and simmer:** Once boiling, reduce the heat to low, cover the saucepan, and let it simmer for 45-55 minutes, or until the rice is tender and the liquid has been absorbed. Stir occasionally to prevent sticking and ensure even cooking.  If the mixture becomes too thick before the rice is cooked, add a little more water or milk.\n5. **Check for doneness:** Taste the rice to make sure it's cooked through. It should be soft and chewy, not hard or crunchy. If needed, simmer for a few more minutes.\n6. **Serve and enjoy:** Remove the saucepan from the heat and let it stand for a few minutes before serving.  Divide the porridge into bowls and add your desired toppings.\n\n\n\n**Tips and Variations:**\n\n* **For a creamier porridge:** Use milk instead of water, or a combination of both.\n* **Soaking the rice:** For a quicker cooking time and softer texture, soak the brown rice in water for at least 30 minutes or overnight before cooking.\n* **Adding flavor:** Experiment with different spices like cardamom, cloves, or allspice.\n* **Sweetening:** Adjust the amount of honey or maple syrup to your liking.\n* **Making it ahead:** The porridge can be made ahead of time and stored in the refrigerator for up to 3 days. Reheat gently on the stovetop or in the microwave with a splash of milk or water.\n* **Savory version:**  Omit the sweeteners and add savory toppings such as sauteed vegetables, a poached egg, or a sprinkle of cheese.\n\n\n\nEnjoy your delicious and nutritious oat and brown rice porridge! \n",
+                "date": "2025-04-04 14:55",
+                "ingredients": [
+                    "oats",
+                    "brown rice"
+                ]
+            },
+            {
+                "name": "Recipe with oats, quinoa",
+                "details": "## Hearty Harvest Quinoa & Oat Bowl\n\n**Preparation time:** 10 minutes\n**Cooking time:** 25 minutes\n**Difficulty level:** Easy\n\nThis recipe combines the nutty flavor of quinoa with the creamy texture of oats for a nutritious and satisfying breakfast or lunch bowl.\n\n**Ingredients:**\n\n* 1 cup rolled oats (not instant)\n* \u00bd cup quinoa, rinsed\n* 2 cups water or plant-based milk (almond, soy, etc.)\n* \u00bd teaspoon salt\n* 1 tablespoon chia seeds (optional, for extra nutrients and thickness)\n* **For toppings (choose your favorites):**\n    * Fresh or frozen berries (blueberries, strawberries, raspberries)\n    * Sliced banana\n    * Chopped nuts (almonds, walnuts, pecans)\n    * Seeds (pumpkin, sunflower)\n    * Dried fruit (cranberries, raisins)\n    * Maple syrup or honey (for sweetness)\n    * Cinnamon or nutmeg (for spice)\n    * Nut butter (peanut, almond)\n\n**Step-by-step instructions:**\n\n1. **Combine ingredients:** In a medium saucepan, combine the rinsed quinoa, rolled oats, water (or plant-based milk), and salt.  If using chia seeds, add them now.\n2. **Bring to a boil:** Over medium-high heat, bring the mixture to a rolling boil.\n3. **Reduce heat and simmer:** Once boiling, reduce the heat to low, cover the saucepan, and simmer for 15-20 minutes, or until the quinoa and oats are cooked through and the liquid is absorbed.  Stir occasionally to prevent sticking.\n4. **Check for doneness:** The quinoa should be translucent and the oats should be soft and creamy. If the mixture is still too watery, continue cooking for a few more minutes uncovered.\n5. **Fluff and serve:** Once cooked, remove the saucepan from the heat and let it sit covered for a few minutes. Then, fluff the quinoa and oat mixture with a fork.\n6. **Add toppings:** Divide the cooked quinoa and oats into bowls and top with your favorite ingredients.  Get creative and experiment with different flavor combinations!  \n\n\n**Tips and variations:**\n\n* **For a creamier texture:** Use milk instead of water.\n* **For a sweeter bowl:** Add a tablespoon of maple syrup or honey to the cooking liquid.\n* **Make it savory:** Instead of sweet toppings, try adding saut\u00e9ed vegetables, a poached egg, or avocado.\n* **Meal prep:** This recipe is great for meal prepping.  Cook a large batch and store it in the refrigerator for up to 4 days.  Reheat in the microwave or on the stovetop before serving. \n* **Boost the flavor:** Add a dash of cinnamon or nutmeg while cooking for a warm, spiced flavor.  A teaspoon of vanilla extract can also enhance the taste. \n",
+                "date": "2025-04-04 14:55",
+                "ingredients": [
+                    "oats",
+                    "quinoa"
+                ]
+            }
+        ],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [],
+        "generated_recipes": [],
+        "friends": [],
+        "achievements": [
+            {
+                "name": "Perfect Streak",
+                "earned_on": "2025-04-04 14:56",
+                "description": "Get 5 correct answers in a row"
+            }
+        ],
+        "current_streak": 2
+    },
+    "kattapa": {
+        "password": "qwe",
+        "points": 60,
+        "quiz_stats": {
+            "total_attempts": 0,
+            "correct_answers": 0
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-04 22:29",
+                "action": "Generated beverage recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 22:42",
+                "action": "Generated beverage recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-04 22:44",
+                "action": "Generated beverage recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 10:33",
+                "action": "Generated beverage recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 14:45",
+                "action": "Generated dessert recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 14:51",
+                "action": "Generated dessert recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 14:55",
+                "action": "Generated dessert recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 19:05",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 19:27",
+                "action": "Added leftover: avocado",
+                "points": 2
+            },
+            {
+                "date": "2025-04-09 11:05",
+                "action": "Generated beverage recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-09 11:07",
+                "action": "Generated dessert recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-09 11:08",
+                "action": "Generated appetizers suggestions",
+                "points": 2
+            },
+            {
+                "date": "2025-04-09 11:09",
+                "action": "Generated main course suggestions",
+                "points": 2
+            },
+            {
+                "date": "2025-04-09 11:09",
+                "action": "Generated main course suggestions",
+                "points": 2
+            },
+            {
+                "date": "2025-04-09 11:11",
+                "action": "Generated main course suggestions",
+                "points": 2
+            }
+        ],
+        "created_recipes": [
+            {
+                "name": "Mocktail Recipe",
+                "type": "beverage",
+                "ingredients": [
+                    "Orange",
+                    "Milk"
+                ],
+                "details": "## Sunny Citrus Dream Mocktail\n\n**Description:** A refreshing and creamy citrus blend that's perfect for any occasion, the Sunny Citrus Dream combines the tangy zest of orange with the smooth richness of milk, creating a vibrant and flavorful beverage.\n\n**Preparation time:** 5 minutes\n\n**Difficulty level:** Easy\n\n**Main ingredients:** Orange, Milk\n\n**Preferences:** Citrus\n\n**Season:** All Seasons\n\n**Dietary restrictions:** None\n\n\n**Ingredients:**\n\n* Freshly squeezed orange juice: 1 cup (240ml)\n* Cold milk (whole or 2%): 1/2 cup (120ml)\n* Orange zest: 1 teaspoon\n* Vanilla extract: 1/4 teaspoon\n* Honey or simple syrup (optional): 1-2 tablespoons (adjust to taste)\n* Ice cubes\n\n\n**Preparation Instructions:**\n\n1. **Chill your glass:**  Place your serving glass in the freezer for a few minutes before preparing the mocktail to keep it extra cold.\n2. **Combine ingredients:** In a shaker or blender, combine the orange juice, milk, orange zest, vanilla extract, and honey/simple syrup (if using). \n3. **Blend or shake:** If using a blender, blend for about 15-20 seconds until smooth. If using a shaker, add a few ice cubes and shake vigorously for 30 seconds to chill and combine the ingredients.\n4. **Strain (optional):** If you used a shaker, strain the mixture into your chilled glass filled with ice. If using a blender, you can skip this step.\n5. **Garnish and serve:**  Add your desired garnish and serve immediately.\n\n\n**Serving Suggestions:**\n\n* Serve in a tall glass with a straw.\n* Perfect for brunch, parties, or a refreshing afternoon pick-me-up.\n* Can be enjoyed as a non-alcoholic alternative at celebrations.\n\n\n**Garnishing Ideas:**\n\n* Orange slices or wedges\n* Orange zest curls\n* Fresh mint sprigs\n* Edible flowers\n* Whipped cream (for a richer version)\n\n\n**Tips for Best Results:**\n\n* Use freshly squeezed orange juice for the best flavor.\n* Chill all ingredients beforehand for an extra cold and refreshing drink.\n* Adjust the amount of honey or simple syrup according to your sweetness preference.\n* Don\u2019t over-blend if using a blender, as this can make the drink frothy.\n* For a creamier texture, use whole milk. For a lighter version, use 2% or skim milk.\n* You can also add a splash of sparkling water for a fizzy twist.\n* If making a large batch, combine all the ingredients (except ice) in a pitcher and refrigerate until ready to serve.  Add ice to individual glasses just before serving. \n",
+                "date": "2025-04-04 22:29"
+            },
+            {
+                "name": "Mocktail Recipe",
+                "type": "beverage",
+                "ingredients": [
+                    "Ginger",
+                    "Coconut Milk",
+                    "Honey",
+                    "Fruit Juice"
+                ],
+                "details": "## Tropical Ginger Fizz Mocktail\n\n**Description:** A refreshing and invigorating blend of spicy ginger, creamy coconut milk, and sweet fruit juice, perfect for any occasion. This mocktail offers a delightful balance of flavors and textures, making it a crowd-pleaser all year round.\n\n**Preparation Time:** 5 minutes\n\n**Difficulty Level:** Easy\n\n**Main Ingredients:** Ginger, Coconut Milk, Honey, Fruit Juice (Mango or Pineapple recommended)\n\n\n**Ingredients:**\n\n* 1.5 oz Freshly squeezed ginger juice (from about a 2-inch piece of ginger)\n* 4 oz Coconut milk (full-fat recommended for creaminess)\n* 1 oz Honey or agave nectar (adjust to your sweetness preference)\n* 4 oz  Mango or Pineapple juice (chilled)\n* Ice cubes\n* Sparkling water (optional, for extra fizz)\n\n\n**Instructions:**\n\n1. **Prepare the ginger juice:** Peel and grate the ginger.  Wrap the grated ginger in a cheesecloth or clean kitchen towel and squeeze firmly over a small bowl to extract the juice. Discard the pulp.\n2. **Combine ingredients:** In a cocktail shaker, combine the ginger juice, coconut milk, honey, and fruit juice. \n3. **Shake well:** Add ice cubes to the shaker and close the lid tightly. Shake vigorously for 15-20 seconds to chill and combine the ingredients thoroughly.\n4. **Strain and serve:** Strain the mixture into a chilled glass filled with ice.\n5. **Add fizz (optional):** Top with a splash of sparkling water for extra effervescence.\n\n\n**Serving Suggestions:**\n\n* Serve in tall glasses or hurricane glasses for a tropical feel.\n* Enjoy as a refreshing afternoon pick-me-up or as a non-alcoholic option for parties and gatherings.\n* Pairs well with spicy appetizers, grilled meats, and light salads.\n\n\n**Garnishing Ideas:**\n\n* **Fresh fruit:** Slices of mango, pineapple, or lime wedges.\n* **Herbs:** Sprig of mint or a few basil leaves.\n* **Spices:**  Pinch of ground ginger or cinnamon.\n* **Candied ginger:**  Adds a sweet and spicy touch.\n* **Coconut flakes:** Toasted coconut flakes for added texture and flavor.\n\n\n**Tips for Best Results:**\n\n* **Use fresh ginger:** Freshly squeezed ginger juice provides the best flavor and aroma.\n* **Adjust sweetness:** Adjust the amount of honey or agave nectar according to your preference.\n* **Chill ingredients:** Using chilled fruit juice and coconut milk will ensure a perfectly chilled mocktail.\n* **Don't over-shake:** Over-shaking can make the coconut milk separate.\n* **Experiment with fruit juices:**  Try other fruit juices like orange, passion fruit, or guava for different flavor profiles.\n* **Make it a mocktail slushy:** Blend all the ingredients with a cup of ice for a frozen treat.\n* **Rim the glass:**  For a fancy touch, rim the glass with honey and then dip it in shredded coconut or finely chopped candied ginger. \n",
+                "date": "2025-04-04 22:42"
+            },
+            {
+                "name": "Hot Beverage Recipe",
+                "type": "beverage",
+                "ingredients": [
+                    "Ginger",
+                    "Cinnamon",
+                    "Tea"
+                ],
+                "details": "## Spiced Ginger Cinnamon Tea Elixir\n\n**Description:** A warming and invigorating tea infused with the vibrant flavors of ginger and cinnamon, perfect for any time of day and any season. This elixir offers a soothing warmth in the winter and a refreshing spice in the warmer months.\n\n**Preparation time:** 10-15 minutes\n\n**Difficulty level:** Easy\n\n**Main ingredients:** Ginger, Cinnamon, Tea\n\n**Preferences:** Adjust sweetness and spice level to your liking.\n\n**Season:** All Seasons\n\n**Dietary restrictions:** None (can be easily adapted for vegan/vegetarian diets)\n\n\n**Ingredients:**\n\n* 1 inch piece fresh ginger, peeled and thinly sliced\n* 2 cinnamon sticks (or 1 tsp ground cinnamon)\n* 4 cups water\n* 2 black tea bags (or 2 tsp loose black tea) - can substitute with green tea, herbal tea, or rooibos \n* 2 tablespoons honey or maple syrup (optional, adjust to taste)\n* 1 lemon or orange, sliced (optional)\n\n\n**Preparation Instructions:**\n\n1. **Infuse the water:** In a medium saucepan, combine the water, ginger slices, and cinnamon sticks.  Bring the mixture to a boil over medium-high heat.\n2. **Simmer and steep:** Once boiling, reduce the heat to low and simmer for 5 minutes, allowing the ginger and cinnamon to infuse the water.\n3. **Add tea:**  Add the tea bags (or loose tea) to the saucepan. Cover and let steep for 3-5 minutes, or according to the tea's instructions. If using ground cinnamon, add it now along with the tea.\n4. **Sweeten (optional):** Remove the saucepan from the heat.  Stir in honey or maple syrup to taste, if desired.\n5. **Strain and serve:**  Strain the tea into mugs, discarding the ginger slices, cinnamon sticks, and tea bags.\n6. **Add citrus (optional):** Add a lemon or orange slice to each mug for an extra burst of flavor and aroma.\n\n\n**Serving Suggestions:**\n\n* Enjoy this tea on its own as a comforting beverage.\n* Pair it with light snacks like biscuits, cookies, or fruit bread.\n* Serve it as a digestive aid after a heavy meal.\n\n\n**Garnishing Ideas:**\n\n* Cinnamon stick: Place a small cinnamon stick in each mug for visual appeal and added aroma.\n* Star anise: Float a star anise in the tea for a decorative touch and subtle licorice flavor.\n* Orange or lemon zest: Garnish with a sprinkle of citrus zest for a vibrant and fragrant finish.\n* Crystallized ginger: Add a piece of crystallized ginger for extra sweetness and ginger flavor.\n\n\n**Tips for Best Results:**\n\n* Use fresh ginger for the most intense flavor. If using ground ginger, use \u00bd - 1 teaspoon.\n* Adjust the steeping time of the tea to your preference. Longer steeping will result in a stronger and more robust flavor.\n* For a spicier tea, add a pinch of cayenne pepper or a few slices of fresh chili pepper during the simmering process.\n*  Store leftover tea in the refrigerator for up to 3 days. Reheat gently on the stovetop or in the microwave.\n* Experiment with different types of tea and sweeteners to find your perfect blend. For example, a honey-ginger green tea or a maple-cinnamon rooibos tea.\n\n\nEnjoy your Spiced Ginger Cinnamon Tea Elixir! \n",
+                "date": "2025-04-04 22:44"
+            },
+            {
+                "name": "Hot Beverage Recipe",
+                "type": "beverage",
+                "ingredients": [
+                    "Milk",
+                    "Coffee"
+                ],
+                "details": "## Creamy Dreamy Coffee Elixir\n\n**Description:** A rich and comforting coffee beverage perfect for any time of day, customizable to your preferred level of sweetness and flavor.\n\n**Preparation time:** 5-7 minutes\n\n**Difficulty level:** Easy\n\n**Main ingredients:** Milk, Coffee\n\n**Preferences:** Sweet, Creamy\n\n**Season:** All Seasons\n\n**Dietary restrictions:** None (can be adapted for lactose intolerance with alternative milks)\n\n\n**Ingredients:**\n\n* 1 cup (240ml) Milk (whole milk recommended for creaminess, but any milk works)\n* 1/2 cup (120ml) freshly brewed strong Coffee (espresso or French press preferred)\n* 2 tablespoons Sweetener (sugar, honey, maple syrup, or sugar substitute)\n* 1/4 teaspoon Vanilla Extract\n* Pinch of Salt\n* Optional: 1/4 teaspoon Ground Cinnamon or Nutmeg\n\n**Instructions:**\n\n1. **Heat the milk:**  In a small saucepan over medium heat, warm the milk until it's steaming and hot, but not boiling.  Stir occasionally to prevent sticking.\n2. **Froth the milk (optional):** If you have a milk frother, froth the warm milk until it's light and airy. Alternatively, you can vigorously whisk the milk for a minute or two to create some foam.\n3. **Combine coffee and sweetener:** In a mug, combine the freshly brewed coffee and your chosen sweetener. Stir until the sweetener is completely dissolved.\n4. **Add milk and flavorings:** Pour the warm milk into the mug with the coffee mixture. Stir in the vanilla extract and salt. If using cinnamon or nutmeg, add it now and stir.\n5. **Serve immediately:** Enjoy your Creamy Dreamy Coffee Elixir while it's hot.\n\n**Serving Suggestions:**\n\n* Serve in your favorite mug.\n* Pair with a biscotti, cookie, or a slice of cake.\n* Enjoy on its own as a comforting afternoon treat.\n* Make it a festive drink by adding a splash of peppermint extract during the holiday season.\n\n\n**Garnishing Ideas:**\n\n* **Whipped cream:** A dollop of whipped cream adds a luxurious touch.\n* **Spice sprinkle:** Dust with cinnamon, nutmeg, or cocoa powder.\n* **Chocolate shavings:**  Grate some dark chocolate over the top.\n* **Coffee beans:** A few coffee beans add a sophisticated touch.\n* **Caramel drizzle:** For an extra sweet treat, drizzle caramel sauce over the whipped cream.\n\n**Tips for Best Results:**\n\n* Use freshly brewed, strong coffee for the best flavor.\n* Warm the milk gently to avoid scalding.\n* Don't over-sweeten. Start with less sweetener and adjust to taste.\n* A pinch of salt enhances the flavors of the coffee and milk.\n* For a richer flavor, use whole milk or a milk alternative designed for barista use (like oat or almond milk).\n* If you're using a milk frother, make sure the milk isn't too cold, as it won't froth properly. Room temperature or slightly warm milk is ideal.\n* Experiment with different flavor extracts like almond, hazelnut, or peppermint.\n* For a mocha variation, add 1-2 tablespoons of cocoa powder along with the coffee and sweetener.\n\n\nEnjoy your customized Creamy Dreamy Coffee Elixir! \n",
+                "date": "2025-04-05 10:33",
+                "dietary_restrictions": [],
+                "season": "All Seasons"
+            },
+            {
+                "name": "Indian Traditional Sweet",
+                "type": "dessert",
+                "cuisine": "Indian",
+                "ingredients": [
+                    "Baking Powder"
+                ],
+                "details": "## Coconut Ladoo (Quick & Easy)\n\n**Description:** These delightful Coconut Ladoos are a quick and easy gluten-free Indian sweet, perfect for satisfying your sweet cravings without spending hours in the kitchen. The soft, melt-in-your-mouth texture combined with the fragrant coconut makes them irresistible.\n\n**Preparation & Cooking Time:** 20 minutes\n\n**Difficulty Level:** Easy\n\n**Dietary Restrictions:** Gluten-Free\n\n**Preferences:** Quick & Easy\n\n**Ingredients:**\n\n* 1 cup desiccated coconut (unsweetened)\n* 1/2 cup condensed milk (sweetened)\n* 1/4 cup milk powder\n* 1 tablespoon ghee (clarified butter)\n* 1/4 teaspoon cardamom powder\n* 1/8 teaspoon baking powder\n* Pinch of salt\n* Chopped nuts (almonds, pistachios) for garnish (optional)\n\n\n**Step-by-Step Preparation Instructions:**\n\n1. **Heat the ghee:** In a non-stick pan, heat the ghee over low heat.\n2. **Roast the coconut:** Add the desiccated coconut to the pan and roast it for 2-3 minutes, stirring continuously, until it turns lightly golden and fragrant. Be careful not to burn it.\n3. **Combine dry ingredients:** In a separate bowl, combine the milk powder, cardamom powder, baking powder, and salt.\n4. **Add condensed milk:**  Add the condensed milk to the roasted coconut and mix well.\n5. **Incorporate dry ingredients:** Gradually add the dry ingredient mixture to the coconut-condensed milk mixture and combine everything thoroughly.  The mixture should be thick and slightly sticky. \n6. **Shape the ladoos:** Grease your palms with a little ghee. Take small portions of the mixture and shape them into round balls (ladoos).\n7. **Garnish (optional):** Roll the ladoos in chopped nuts for added texture and flavour.\n\n\n**Baking/Cooking Temperature and Time:** No baking or cooking required after shaping the ladoos.\n\n**Serving Suggestions:**\n\n* Serve Coconut Ladoos as a dessert after meals.\n* Enjoy them with a cup of tea or coffee.\n* Include them in festive celebrations and special occasions.\n\n**Decoration/Plating Tips:**\n\n* Arrange the ladoos on a decorative platter.\n* Garnish with a sprinkle of cardamom powder or chopped nuts.\n* Use colourful paper cups or small bowls for individual servings.\n* Add a few fresh rose petals for a touch of elegance.\n\n\n**Storage Instructions:**\n\n* Store the Coconut Ladoos in an airtight container at room temperature for up to 5-7 days.\n* For longer storage (up to 2 weeks), refrigerate them. \n\n\n**Notes:**\n\n* You can adjust the sweetness by using more or less condensed milk.\n* For a richer flavour, use freshly grated coconut instead of desiccated coconut.\n* If the mixture is too dry, add a teaspoon of milk at a time until you achieve the desired consistency.\n* If the mixture is too sticky, add a tablespoon of desiccated coconut or milk powder to thicken it. \n* Baking powder helps to make the ladoos slightly lighter and fluffier, but it can be omitted if you prefer a denser texture. \nEnjoy your homemade Coconut Ladoos! \n",
+                "date": "2025-04-05 14:45",
+                "dietary_restrictions": [
+                    "Gluten-Free"
+                ]
+            },
+            {
+                "name": "Indian Traditional Sweet",
+                "type": "dessert",
+                "cuisine": "Indian",
+                "ingredients": [
+                    "Baking Powder"
+                ],
+                "details": "## Coconut Ladoo (Quick & Easy)\n\n**Description:** These delightful Coconut Ladoos are a gluten-free, no-bake Indian sweet, perfect for a quick and easy dessert fix. The melt-in-your-mouth texture and sweet coconut flavor make them irresistible.  These ladoos use baking powder as a leavening agent to give them a lighter, less dense texture.\n\n\n**Preparation & cooking time:** 20 minutes\n**Difficulty level:** Easy\n\n\n**Ingredients:**\n\n* 1 cup desiccated coconut (unsweetened)\n* 1/2 cup condensed milk (sweetened)\n* 1/4 cup milk powder\n* 1/4 tsp cardamom powder\n* 1/8 tsp baking powder\n* 2 tbsp chopped nuts (cashews, almonds, or pistachios) - optional\n* 1 tbsp ghee (clarified butter) \u2013 optional, for extra richness\n\n**Instructions:**\n\n1. **Combine dry ingredients:** In a mixing bowl, combine the desiccated coconut, milk powder, cardamom powder, and baking powder. Mix well.\n2. **Add condensed milk:** Gradually add the sweetened condensed milk to the dry ingredients, mixing until a soft dough forms. If using ghee for added richness, incorporate it at this stage. \n3. **Adjust consistency:** If the mixture appears too dry, add a teaspoon or two of regular milk to achieve a moldable consistency.  If it's too wet, add a tablespoon more of desiccated coconut.\n4. **Shape the ladoos:** Grease your palms lightly with ghee or oil. Take small portions of the dough and roll them into smooth, round balls (ladoos).\n5. **Garnish (optional):** Roll the ladoos in chopped nuts or desiccated coconut for added texture and flavor.\n6. **Set & serve:** Place the ladoos on a plate or tray lined with parchment paper.  Allow them to set for about 15-20 minutes in the refrigerator before serving.\n\n\n\n**Baking/cooking temperature and time:** No baking or cooking required.\n\n\n**Serving suggestions:**\n\n* Serve these Coconut Ladoos as a delightful after-dinner dessert or as a sweet treat with tea or coffee.\n* They are also perfect for festive occasions and celebrations.\n\n\n**Decoration/plating tips:**\n\n* Arrange the ladoos on a decorative plate or platter.\n* Garnish with fresh or dried rose petals for an elegant touch.\n* Serve them in colorful paper cups for individual portions.\n* Dust lightly with edible glitter for a festive look.\n\n\n**Storage instructions:**\n\n* Store the Coconut Ladoos in an airtight container at room temperature for up to 3-4 days or in the refrigerator for up to a week.  \n* For longer storage, you can freeze them for up to a month. Thaw them at room temperature before serving.\n\n\n**Notes:**\n\n* Adjust the sweetness according to your preference by varying the amount of condensed milk.\n* You can experiment with other flavorings like saffron strands, rose essence, or cocoa powder.\n*  If you don't have baking powder, you can omit it, but the ladoos may be slightly denser.  \n* Be careful not to add too much milk when adjusting the consistency, as this can make the ladoos sticky. \nEnjoy these quick and easy Coconut Ladoos! \n",
+                "date": "2025-04-05 14:51",
+                "dietary_restrictions": [
+                    "Gluten-Free"
+                ]
+            },
+            {
+                "name": "Indian Traditional Sweet",
+                "type": "dessert",
+                "cuisine": "Indian",
+                "ingredients": [
+                    "Baking Powder"
+                ],
+                "details": "## Coconut Ladoo (Quick & Easy)\n\n**Description:** These soft, melt-in-your-mouth coconut ladoos are a gluten-free Indian sweet treat perfect for any occasion.  This recipe uses baking powder for extra fluffiness and is surprisingly quick and easy to make, requiring no baking or extensive cooking.\n\n**Preparation & Cooking Time:** 20 minutes\n\n**Difficulty Level:** Easy\n\n**Dietary Restrictions:** Gluten-Free\n\n**Ingredients:**\n\n* 1 cup desiccated coconut (unsweetened)\n* 1/2 cup condensed milk (sweetened)\n* 1/4 cup milk powder\n* 1/4 teaspoon cardamom powder\n* 1/8 teaspoon baking powder\n* 2 tablespoons ghee (clarified butter)\n* Chopped nuts (almonds, pistachios) for garnish (optional)\n* Desiccated coconut for rolling (optional)\n\n\n**Instructions:**\n\n1. **Heat the ghee:** In a non-stick pan or kadai, gently heat the ghee over low flame. \n2. **Roast the coconut:** Add the desiccated coconut to the pan and roast it for 2-3 minutes, stirring constantly, until it becomes fragrant and slightly changes color. Be careful not to burn it.\n3. **Combine dry ingredients:** In a separate bowl, combine the milk powder, cardamom powder, and baking powder.\n4. **Add condensed milk:** Gradually add the condensed milk to the roasted coconut, stirring continuously to ensure there are no lumps.\n5. **Mix dry ingredients:** Add the dry ingredient mixture to the coconut and condensed milk mixture. Mix well until everything is combined.\n6. **Cook the mixture:** Continue cooking the mixture on low flame for 2-3 minutes, stirring constantly, until it thickens and starts to leave the sides of the pan. The baking powder will help the mixture become light and airy.\n7. **Cool slightly:** Remove the pan from the heat and let the mixture cool for 5-7 minutes until it is warm enough to handle.\n8. **Shape the ladoos:** Grease your palms with a little ghee or oil. Take small portions of the mixture and roll them into smooth, round balls (ladoos).\n9. **Garnish (optional):** Roll the ladoos in desiccated coconut or chopped nuts for extra texture and flavor.\n10. **Set and serve:** Place the ladoos on a plate lined with parchment paper and allow them to set completely at room temperature for about 30 minutes.\n\n\n**Baking/Cooking Temperature and Time:** No baking required. Cooked on low flame for approximately 5-6 minutes in total.\n\n\n**Serving Suggestions:** Serve the coconut ladoos as a dessert after a meal or as a sweet snack with tea or coffee. They are also a popular choice for festivals and celebrations.\n\n\n**Decoration/Plating Tips:** Arrange the ladoos on a decorative plate or platter. Garnish with a few strands of saffron or edible silver foil for a festive look. You can also serve them in small paper cups or decorative bowls.\n\n\n**Storage Instructions:** Store the coconut ladoos in an airtight container at room temperature for up to 5-7 days. For longer storage, refrigerate them for up to 2 weeks.\n\n\nEnjoy these delicious and easy-to-make coconut ladoos! \n",
+                "date": "2025-04-05 14:55",
+                "dietary_restrictions": [
+                    "Gluten-Free"
+                ]
+            },
+            {
+                "name": "Recipe with Pumpkin",
+                "details": "## Creamy Pumpkin Soup with Toasted Pepitas\n\n**Preparation time:** 20 minutes\n**Cooking time:** 45 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* 1 medium sugar pumpkin (about 3 pounds), or 1 (15 ounce) can pumpkin puree\n* 1 tablespoon olive oil\n* 1 medium onion, chopped\n* 2 cloves garlic, minced\n* 4 cups vegetable broth\n* 1 cup coconut milk (or heavy cream for a richer soup)\n* 1 teaspoon ground ginger\n* 1/2 teaspoon ground cinnamon\n* 1/4 teaspoon ground nutmeg\n* Salt and pepper to taste\n* 1/4 cup pepitas (pumpkin seeds)\n\n\n**Instructions:**\n\n1. **Prepare the Pumpkin (if using fresh):** Preheat oven to 400\u00b0F (200\u00b0C).  Cut the pumpkin in half, scoop out the seeds and stringy pulp. Place the pumpkin halves cut-side down on a baking sheet lined with parchment paper. Bake for 45-60 minutes, or until the flesh is tender when pierced with a fork.\n2. **Toast the Pepitas:** While the pumpkin is roasting (or if using canned pumpkin, preheat oven to 350\u00b0F/175\u00b0C now), spread pepitas in a single layer on a baking sheet. Bake for 5-7 minutes, or until fragrant and lightly browned. Set aside to cool.\n3. **Saut\u00e9 Aromatics:**  Heat olive oil in a large pot or Dutch oven over medium heat. Add the chopped onion and cook until softened, about 5 minutes. Add the minced garlic and cook for another minute, until fragrant.\n4. **Add Pumpkin:** If using fresh pumpkin, scoop the roasted flesh out of the skin and add it to the pot.  If using canned pumpkin, add it directly to the pot. \n5. **Simmer Soup:** Pour in the vegetable broth, coconut milk, ginger, cinnamon, and nutmeg. Bring to a simmer and cook for 15-20 minutes, stirring occasionally, to allow the flavors to meld.\n6. **Blend Soup:** Carefully transfer the soup to a blender (or use an immersion blender) and blend until smooth. Be cautious when blending hot liquids.  \n7. **Season and Serve:** Return the soup to the pot if using a regular blender. Season with salt and pepper to taste.  Ladle into bowls and garnish with toasted pepitas.\n\n**Optional additions:**\n\n* For a sweeter soup, add a drizzle of maple syrup or honey.\n* For a spicier soup, add a pinch of cayenne pepper or a dash of hot sauce.\n* For extra creaminess, stir in a dollop of sour cream or Greek yogurt before serving.\n* For a heartier soup, add cooked chickpeas or lentils.\n* Garnish with fresh herbs like chives or parsley for a pop of color and flavor. \n\n\nEnjoy your delicious and comforting pumpkin soup! \n",
+                "date": "2025-04-05 19:05",
+                "ingredients": [
+                    "Pumpkin"
+                ]
+            },
+            {
+                "name": "Smoothie Recipe",
+                "type": "beverage",
+                "ingredients": [
+                    "Blueberry",
+                    "Cardamom",
+                    "Milk"
+                ],
+                "details": "## Midnight Bloom Smoothie\n\n**Description:** A refreshing and subtly spiced summer smoothie with the vibrant sweetness of blueberries balanced by the warm, floral notes of cardamom. This creamy, dreamy concoction is perfect for a cool morning start or an afternoon pick-me-up.\n\n**Preparation time:** 5-10 minutes\n\n**Difficulty level:** Easy\n\n**Main ingredients:** Blueberry, Cardamom, Milk\n\n**Preferences:** Floral, Savory (a touch)\n\n**Season:** Summer\n\n**Dietary restrictions:** None (adaptable \u2013 see tips)\n\n\n**Ingredients:**\n\n* 1 cup frozen blueberries\n* 1 cup milk (dairy or non-dairy \u2013 almond, oat, or soy work well)\n* 1/2 teaspoon ground cardamom\n* 1/4 teaspoon ground ginger (for a subtle savory note)\n* 1 tablespoon honey or maple syrup (adjust to sweetness preference)\n* 1/4 teaspoon vanilla extract\n* Pinch of salt\n* Optional: 1/4 cup plain Greek yogurt (for extra creaminess)\n\n\n**Preparation Instructions:**\n\n1. **Combine ingredients:** Place all ingredients \u2013 frozen blueberries, milk, cardamom, ginger, honey/maple syrup, vanilla extract, salt, and optional Greek yogurt \u2013 in a blender.\n2. **Blend:** Blend on high speed until the mixture is completely smooth and creamy, about 1-2 minutes. Stop and scrape down the sides of the blender as needed to ensure even blending.\n3. **Adjust consistency:** If the smoothie is too thick, add a splash more milk. If it's too thin, add a few more frozen blueberries or a small amount of ice.\n4. **Taste and adjust:**  Taste the smoothie and adjust sweetness or spice levels to your liking.\n\n\n**Serving Suggestions:**\n\n* Serve immediately in a tall glass.\n* Enjoy as a quick breakfast, afternoon snack, or post-workout replenishment.\n* Pair with a light breakfast pastry or a handful of nuts.\n\n\n**Garnishing Ideas:**\n\n* Fresh blueberries\n* A sprinkle of ground cardamom\n* A small sprig of mint\n* A drizzle of honey\n* Edible flowers (e.g., pansies, violas)\n\n\n**Tips for Best Results:**\n\n* **Use frozen blueberries:**  Frozen blueberries create a thicker, colder smoothie without the need for ice, which can dilute the flavor.\n* **Freshly ground cardamom:**  For the most intense flavor, use freshly ground cardamom seeds.\n* **Adjust sweetness:** The amount of honey/maple syrup can be adjusted to your preference. Start with less and add more as needed.\n* **Dairy-free option:** Substitute dairy milk with any non-dairy milk like almond, soy, or oat milk.\n* **Protein boost:** Add a scoop of protein powder for a more substantial smoothie.\n* **Vegan adaptation:** Use maple syrup instead of honey and omit the Greek yogurt.\n* **Make it ahead:** Prepare the smoothie the night before and store it in a sealed container in the refrigerator. Give it a good shake or blend again before serving.\n\n\nEnjoy your Midnight Bloom Smoothie! \n",
+                "date": "2025-04-09 11:05",
+                "dietary_restrictions": [],
+                "season": "Summer"
+            },
+            {
+                "name": "Indian Pastry",
+                "type": "dessert",
+                "cuisine": "Indian",
+                "ingredients": [
+                    "Baking Powder",
+                    "Cocoa Powder",
+                    "Coconut",
+                    "Condensed Milk"
+                ],
+                "details": "## Coconut Ladoo (Quick & Easy Vegan Version)\n\n**Description:** These delightful coconut ladoos are a kid-friendly, vegan twist on a classic Indian sweet. They're incredibly easy and quick to make, requiring no baking and minimal cooking, making them perfect for a spontaneous dessert craving or a quick festive treat. The rich coconut flavor combined with a hint of chocolate makes them irresistible!\n\n**Preparation & Cooking Time:** 20 minutes\n\n**Difficulty Level:** Easy\n\n**Dietary Restrictions:** Vegan, Egg-Free\n\n**Preferences:** Kid-Friendly, Quick & Easy\n\n\n**Ingredients:**\n\n* 1 cup desiccated coconut (unsweetened)\n* 1/2 cup condensed milk (vegan)\n* 1/4 cup cocoa powder (unsweetened)\n* 1 tbsp baking powder\n* 2 tbsp coconut oil (refined, for a neutral taste)\n* 1/4 cup warm water\n* Pinch of salt\n* Desiccated coconut for rolling (optional)\n* Chopped nuts (optional, for decoration)\n\n\n\n**Step-by-Step Preparation Instructions:**\n\n1. **Combine dry ingredients:** In a mixing bowl, combine the desiccated coconut, cocoa powder, baking powder, and salt.\n2. **Melt coconut oil:** Gently melt the coconut oil in a separate bowl or pan.\n3. **Mix wet ingredients:** Add the vegan condensed milk and warm water to the melted coconut oil. Mix well.\n4. **Combine wet and dry ingredients:** Gradually add the wet ingredients to the dry ingredients, mixing continuously to form a soft, slightly sticky dough.\n5. **Shape the ladoos:** Grease your palms with a little coconut oil to prevent sticking. Take small portions of the dough (about 1-2 tablespoons) and roll them into smooth balls or ladoos. \n6. **Optional coating:** If desired, roll the ladoos in desiccated coconut or chopped nuts for added texture and flavor.\n7. **Chill (optional):**  For a firmer texture, chill the ladoos in the refrigerator for about 15-20 minutes before serving.\n\n\n\n**Baking/Cooking Temperature and Time:** No baking required.\n\n\n**Serving Suggestions:**\n\n* Serve these coconut ladoos as a delightful after-dinner dessert.\n* Enjoy them as a sweet snack with tea or coffee.\n* Pack them in lunchboxes for a healthy and delicious treat.\n* Include them in festive platters for Diwali, Holi, or other celebrations.\n\n\n\n**Decoration/Plating Tips:**\n\n* Arrange the ladoos on a decorative plate or serving platter.\n* Garnish with fresh or dried rose petals for an elegant touch.\n* Sprinkle some chopped nuts or desiccated coconut around the ladoos for visual appeal.\n* Serve them in individual paper cups for easy handling.\n\n\n**Storage Instructions:**\n\n* Store the ladoos in an airtight container at room temperature for up to 3-4 days, or in the refrigerator for up to a week.\n* For longer storage, freeze the ladoos in an airtight container for up to a month. Thaw them at room temperature before serving.\n\n\n\n\n\nEnjoy these delicious and easy Vegan Coconut Ladoos! They are a perfect sweet treat for any occasion! \n",
+                "date": "2025-04-09 11:07",
+                "dietary_restrictions": [
+                    "Vegan",
+                    "Egg-Free"
+                ]
+            }
+        ],
+        "completed_events": [],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [],
+        "leftover_ingredients": [
+            {
+                "name": "avocado",
+                "quantity": 100,
+                "date_added": "2025-04-05 19:27"
+            }
+        ],
+        "generated_recipes": [],
+        "friends": [
+            "Prashant "
+        ],
+        "achievements": []
+    },
+    "abcd ": {
+        "password": "1234",
+        "points": 44,
+        "quiz_stats": {
+            "total_attempts": 6,
+            "correct_answers": 4
+        },
+        "activity_log": [
+            {
+                "date": "2025-04-05 21:44",
+                "action": "Generated new recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:45",
+                "action": "Added leftover: Carrot",
+                "points": 2
+            },
+            {
+                "date": "2025-04-05 21:45",
+                "action": "Added leftover: Tomato",
+                "points": 2
+            },
+            {
+                "date": "2025-04-05 21:46",
+                "action": "Generated leftover recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:47",
+                "action": "Generated personalized menu",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:49",
+                "action": "Created new event: Party",
+                "points": 10
+            },
+            {
+                "date": "2025-04-05 21:49",
+                "action": "Created new event: Party",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:50",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-05 21:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:50",
+                "action": "Correct quiz answer",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:51",
+                "action": "Wrong quiz answer",
+                "points": -10
+            },
+            {
+                "date": "2025-04-05 21:52",
+                "action": "Generated beverage recipe",
+                "points": 5
+            },
+            {
+                "date": "2025-04-05 21:53",
+                "action": "Generated dessert recipe",
+                "points": 5
+            }
+        ],
+        "created_recipes": [
+            {
+                "name": "Recipe with Pumpkin, Carrot, Tomato",
+                "details": "## Harvest Moon Soup\n\n**Preparation time:** 20 minutes\n**Cooking time:** 45 minutes\n**Difficulty level:** Easy\n\nThis comforting soup celebrates the warm hues of autumn with a blend of pumpkin, carrot, and tomato.  A touch of ginger and warming spices adds a depth of flavor that's perfect for a chilly evening.\n\n**Ingredients:**\n\n* 1 small pumpkin (about 1.5 lbs), peeled, seeded, and cubed\n* 4 large carrots, peeled and chopped\n* 4 large tomatoes, chopped\n* 1 medium onion, chopped\n* 2 cloves garlic, minced\n* 1 inch piece of fresh ginger, peeled and grated\n* 4 cups vegetable broth\n* 1 tbsp olive oil\n* 1 tsp ground cumin\n* 1/2 tsp ground coriander\n* 1/4 tsp turmeric powder\n* Salt and pepper to taste\n* Fresh cilantro, chopped (for garnish, optional)\n* Cr\u00e8me fra\u00eeche or Greek yogurt (for garnish, optional)\n\n\n**Instructions:**\n\n1. **Saut\u00e9 the aromatics:** Heat the olive oil in a large pot or Dutch oven over medium heat. Add the chopped onion and saut\u00e9 for 5-7 minutes, until softened. Add the minced garlic and grated ginger and saut\u00e9 for another minute, until fragrant.\n2. **Add the vegetables:** Add the cubed pumpkin, chopped carrots, and chopped tomatoes to the pot. Stir well to combine with the onion, garlic, and ginger.\n3. **Bloom the spices:** Add the ground cumin, coriander, and turmeric powder to the pot. Stir well and cook for 1 minute, allowing the spices to release their aroma. This step enhances the flavor of the soup.\n4. **Simmer the soup:** Pour in the vegetable broth, ensuring all the vegetables are submerged.  Bring the mixture to a boil, then reduce the heat to low, cover the pot, and simmer for 30-40 minutes, or until the pumpkin and carrots are tender.\n5. **Blend the soup:**  Once the vegetables are cooked, carefully transfer the soup to a blender (or use an immersion blender) and blend until smooth. Be careful when blending hot liquids. You may need to do this in batches.\n6. **Season and serve:** Return the blended soup to the pot. Season with salt and pepper to taste. Heat through if necessary.\n7. **Garnish and enjoy:** Ladle the Harvest Moon Soup into bowls. Garnish with fresh cilantro and a dollop of cr\u00e8me fra\u00eeche or Greek yogurt, if desired. Serve hot with crusty bread for a complete meal.\n\n\n\n**Tips and variations:**\n\n* For a sweeter soup, add a chopped apple or sweet potato along with the other vegetables.\n* For a spicier soup, add a pinch of cayenne pepper or a chopped chili pepper.\n* If you don't have fresh ginger, you can substitute with 1/2 teaspoon of ground ginger.\n* Coconut milk can be used instead of vegetable broth for a richer, creamier soup.\n* Roasted pumpkin can be used for a deeper, more intense flavor. Simply roast the pumpkin cubes in the oven at 400\u00b0F (200\u00b0C) for 20-25 minutes before adding them to the soup. \n",
+                "date": "2025-04-05 21:44",
+                "ingredients": [
+                    "Pumpkin, Carrot, Tomato"
+                ]
+            },
+            {
+                "name": "Milkshake Recipe",
+                "type": "beverage",
+                "ingredients": [
+                    "Almond Milk",
+                    "Chocolate",
+                    "Chocolate Chips",
+                    "Milk"
+                ],
+                "details": "## Double Chocolate Almond Dream Milkshake (Vegan)\n\n**Description:**  A rich, decadent, and surprisingly refreshing vegan milkshake bursting with chocolate flavor. This creamy treat satisfies any sweet craving without using any animal products. \n\n**Preparation Time:** 5-10 minutes\n\n**Difficulty Level:** Easy\n\n**Main Ingredients:** Almond milk, Chocolate, Chocolate chips, Milk (plant-based)\n\n**Preferences:** Refreshing\n\n**Season:** All Seasons\n\n**Dietary Restrictions:** Vegan\n\n\n**Ingredients:**\n\n* 2 cups chilled almond milk\n* 1/2 cup chilled plant-based milk (soy, oat, or cashew recommended)\n* 1/4 cup vegan dark chocolate chips (plus extra for garnish)\n* 2 tablespoons vegan chocolate syrup\n* 1 teaspoon vanilla extract\n* 2-3 scoops vegan vanilla ice cream (optional, for extra thickness)\n\n\n**Instructions:**\n\n1. **Chill:** Ensure your almond milk and plant-based milk are thoroughly chilled for the best results. This will create a thicker, frothier milkshake.\n2. **Combine Ingredients:** Add the almond milk, plant-based milk, chocolate chips, chocolate syrup, and vanilla extract to a blender.\n3. **Optional Ice Cream:** If using vegan ice cream, add the scoops to the blender as well.\n4. **Blend:** Blend on high speed until the mixture is smooth and creamy. Start with a lower speed and gradually increase to prevent splashing. Blend for about 1-2 minutes, or until the chocolate chips are completely incorporated.\n5. **Check Consistency:** If the milkshake is too thick, add a splash more almond milk. If it's too thin, add another scoop of ice cream or a few more ice cubes and blend again.\n6. **Pour & Serve:** Pour the milkshake into tall glasses.\n\n\n**Serving Suggestions:**\n\n* Serve immediately after blending for the best texture.\n* Enjoy as a refreshing afternoon treat, a decadent dessert, or even a quick and easy breakfast.\n* Pair with vegan cookies, brownies, or a slice of vegan cake.\n\n\n**Garnishing Ideas:**\n\n* **Chocolate:**  A sprinkle of extra vegan chocolate chips, a drizzle of chocolate syrup, or a piece of a vegan chocolate bar.\n* **Whipped Cream:** Top with vegan whipped cream for an extra luxurious touch.\n* **Cherries:** A classic milkshake garnish, a maraschino cherry adds a pop of color and sweetness.\n* **Sprinkles:** Colorful vegan sprinkles add a fun and festive touch.\n* **Cocoa Powder:** Dust the top with cocoa powder for a sophisticated look.\n\n\n\n**Tips for Best Results:**\n\n* **Chill your ingredients:** Cold ingredients are key to a thick and creamy milkshake.\n* **Don't overblend:** Overblending can melt the ice cream too much and make the milkshake runny.\n* **Adjust sweetness:** If you prefer a sweeter milkshake, add more chocolate syrup or a touch of maple syrup.\n* **High-quality chocolate:** Using good quality vegan chocolate will enhance the flavor of the milkshake.\n* **Experiment with flavors:**  Try adding other flavors like peanut butter, banana, strawberry, or coffee to customize your milkshake.\n* **Thickening:** For an extra thick milkshake, freeze some of your almond milk in ice cube trays and use those instead of regular ice. This avoids diluting the flavor.\n\n\nEnjoy your Double Chocolate Almond Dream Milkshake! \n",
+                "date": "2025-04-05 21:52",
+                "dietary_restrictions": [
+                    "Vegan"
+                ],
+                "season": "All Seasons"
+            },
+            {
+                "name": "American Ice Cream",
+                "type": "dessert",
+                "cuisine": "American",
+                "ingredients": [
+                    "Berries",
+                    "Coconut",
+                    "Milk"
+                ],
+                "details": "## Tropical Coconut Berry Nice Cream\n\n**Description:** This creamy, dreamy nice cream is a healthy and delicious frozen dessert perfect for kids and adults alike. Made with only three simple ingredients, it\u2019s naturally gluten-free, quick to make, and bursts with tropical flavors.  It\u2019s a fantastic alternative to traditional ice cream and requires no churning!\n\n**Preparation & Cooking Time:** 10 minutes prep, 2-4 hours freezing time.\n\n**Difficulty Level:** Easy\n\n**Ingredients:**\n\n* 2 cups frozen mixed berries (strawberries, raspberries, blueberries, etc.)\n* 1 (13.5 oz) can full-fat coconut milk, refrigerated overnight\n* 1/4 cup unsweetened shredded coconut, plus extra for garnish (optional)\n\n\n**Dietary Restrictions:** Gluten-Free\n\n**Preferences:** Kid-Friendly, Quick & Easy\n\n\n**Instructions:**\n\n1. **Chill the coconut milk:**  Ensure your can of coconut milk has been refrigerated overnight.  This helps the cream separate and solidify, creating a richer, creamier nice cream.\n2. **Scoop out the cream:** Carefully open the can of chilled coconut milk without shaking. Scoop out the thick, solidified coconut cream from the top, leaving the watery liquid behind (save this for smoothies!).\n3. **Blend the ingredients:** Add the coconut cream, frozen berries, and shredded coconut to a food processor or high-powered blender. \n4. **Process until smooth:** Blend the ingredients until completely smooth and creamy, scraping down the sides as needed. The mixture will be thick and resemble soft-serve ice cream. If it\u2019s too thick, add a tablespoon or two of the reserved coconut water to loosen it up.\n5. **Freeze (optional):** For a firmer consistency, transfer the nice cream to a freezer-safe container and freeze for 2-4 hours. If you prefer a soft-serve texture, you can enjoy it immediately.\n6. **Scoop and serve:** Once frozen (if applicable), scoop the nice cream into bowls or cones.\n\n\n**Serving Suggestions:**\n\n* Serve as is for a refreshing treat.\n* Top with fresh berries, granola, or chopped nuts.\n* Drizzle with honey or maple syrup for extra sweetness.\n* Layer with fresh fruit and whipped coconut cream for a beautiful parfait.\n\n\n**Decoration/Plating Tips:**\n\n* Garnish with extra shredded coconut, fresh berries, and mint sprigs.\n* Use colorful bowls and spoons to enhance the presentation.\n* Create fun shapes using cookie cutters or an ice cream scoop.\n\n\n**Storage Instructions:**\n\n* Store leftover nice cream in an airtight container in the freezer for up to 2 weeks. \n* Allow to soften slightly at room temperature before scooping.\n\n\n**Notes:**\n\n* For a sweeter nice cream, add a touch of honey or maple syrup to the blender along with the other ingredients.\n* You can substitute other frozen fruits like mango, pineapple, or bananas for the berries.\n* If you don't have a food processor or high-powered blender, you can use a regular blender, but the texture might not be as smooth. You may need to add a bit more coconut water to help it blend properly. \n* If the nice cream becomes too hard after freezing, let it sit at room temperature for a few minutes to soften before scooping. \nEnjoy your delicious and healthy Tropical Coconut Berry Nice Cream! \n",
+                "date": "2025-04-05 21:53",
+                "dietary_restrictions": [
+                    "Gluten-Free"
+                ]
+            }
+        ],
+        "completed_events": [
+            {
+                "name": "Party",
+                "date": "2025-04-23",
+                "guests": 24,
+                "theme": "Asian Fusion",
+                "dietary_restrictions": [
+                    "Vegetarian",
+                    "Gluten-Free"
+                ],
+                "menu": {
+                    "Appetizers": "",
+                    "Main Course": "",
+                    "Desserts": "chocolate ice cream\n",
+                    "Beverages": "5 Beer's"
+                },
+                "cost_per_person": 232.96,
+                "total_cost": 5591.04,
+                "status": "Completed"
+            }
+        ],
+        "saved_menus": [],
+        "inventory": {},
+        "leftovers": [
+            {
+                "name": "Leftover Recipe (2025-04-05 21:46)",
+                "ingredients": [
+                    "Carrot (180g)",
+                    "Tomato (90g)"
+                ],
+                "recipe": "## Simple Carrot & Tomato Soup\n\n**Preparation time:** 15 minutes\n**Cooking time:** 25 minutes\n**Difficulty level:** Easy\n\n**Ingredients:**\n\n* Carrot (180g), peeled and chopped\n* Tomato (90g), chopped\n* Onion (1 medium), chopped\n* Garlic (2 cloves), minced\n* Vegetable broth (500ml)\n* Olive oil (2 tbsp)\n* Salt (to taste)\n* Black pepper (to taste)\n* Fresh cilantro or parsley (optional, for garnish)\n\n\n**Step by step instructions:**\n\n1. **Saut\u00e9 the aromatics:** Heat the olive oil in a medium-sized pot over medium heat. Add the chopped onion and saut\u00e9 for about 5 minutes, until softened. Add the minced garlic and cook for another minute until fragrant.\n2. **Add the vegetables:** Add the chopped carrots and tomatoes to the pot. Stir well and cook for about 5 minutes, stirring occasionally, until the tomatoes start to soften.\n3. **Add the broth and simmer:** Pour in the vegetable broth, bring to a boil, then reduce heat to low and simmer for about 15 minutes, or until the carrots are tender.\n4. **Blend the soup:** Carefully transfer the soup to a blender (or use an immersion blender) and blend until smooth.  If using a regular blender, work in batches if necessary and vent the lid to avoid splattering.\n5. **Season and serve:** Return the blended soup to the pot (if using a regular blender). Season with salt and black pepper to taste. Heat through if necessary. \n6. **Garnish (optional):**  Ladle the soup into bowls and garnish with fresh cilantro or parsley, if desired.\n\n\n**Tips & Variations:**\n\n* For a richer flavor, use a combination of vegetable broth and chicken broth.\n* Add a pinch of red pepper flakes for a touch of heat.\n* For a creamier soup, stir in a splash of cream or coconut milk before serving.\n* Serve with crusty bread or grilled cheese sandwiches for a complete meal.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n\nEnjoy your simple and delicious Carrot & Tomato Soup! \n",
+                "date": "2025-04-05 21:46"
+            }
+        ],
+        "leftover_ingredients": [
+            {
+                "name": "Carrot",
+                "quantity": 180,
+                "date_added": "2025-04-05 21:45"
+            },
+            {
+                "name": "Tomato",
+                "quantity": 90,
+                "date_added": "2025-04-05 21:45"
+            }
+        ],
+        "generated_recipes": [],
+        "friends": [
+            "jhb"
+        ],
+        "achievements": [],
+        "current_streak": 0
+    }
+}
