@@ -54,7 +54,7 @@ st.set_page_config(
 # Configure Gemini API
 GEMINI_API_KEY ="AIzaSyB5vTHMOf-4c6I5Z2T43dbXtW106mhDpVA"
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-pro')
+model = genai.GenerativeModel(model_name='gemini-pro')
 
 # Quiz Questions Database
 COOKING_QUIZ = [
