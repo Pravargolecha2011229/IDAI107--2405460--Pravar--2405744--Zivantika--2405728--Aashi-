@@ -263,8 +263,8 @@ COOKING_QUIZ = [
     }
 
 ]
-
-model = genai.get_model()  # Initialize the model
+# Initialize the Gemini model
+model = genai.GenerativeModel('gemini-pro')
 
 # Initialize session state
 
