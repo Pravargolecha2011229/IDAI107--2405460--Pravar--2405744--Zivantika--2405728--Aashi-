@@ -367,6 +367,6 @@ https://www.canva.com/design/DAGj1VhB5a4/_ztw0xnNVYB4W5fwk9c_pg/edit?utm_content
 
 ## Link for FututeEats app:
 
-https://future-eats.streamlit.app/
+https://future-eats-bypravargolecha.streamlit.app/
 
 #### NOTE: Pls reload the stie or check the internet connection if the recipe is not loading.
