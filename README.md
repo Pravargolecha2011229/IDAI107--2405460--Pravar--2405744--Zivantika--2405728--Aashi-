@@ -363,13 +363,13 @@ Streamlit run 8.py
 
 ### Link for the Demo Video of the app:
 
-*(Note: The quality of the video maybe reduced due the link formation, so you can download the video from canva and see it better quality.)*
+*(Note: The app has been modified so the app may not look like the video bu it will have more functions as compared to the video and the quality of the video maybe reduced due the link formation, so you can download the video from canva and see it better quality.)*
 
 https://www.canva.com/design/DAGj1VhB5a4/_ztw0xnNVYB4W5fwk9c_pg/edit?utm_content=DAGj1VhB5a4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ## Link for FututeEats app:
 
-https://future-eats-bypravargolecha.streamlit.app/
+https://future-eats-by-pravargolecha.streamlit.app/
 
 #### NOTE: Pls reload the stie or check the internet connection if the recipe is not loading.
