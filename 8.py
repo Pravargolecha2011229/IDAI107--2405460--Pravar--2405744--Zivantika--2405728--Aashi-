@@ -1283,10 +1283,6 @@ elif app_mode == "Recipe Suggestions":
                 {f"Must Avoid: {mentions['dont_wants']}" if mentions['dont_wants'] else ""}
                 {f"Additional Notes: {mentions['additional_notes']}" if mentions['additional_notes'] else ""}
 
-                Recipe Requirements:
-                - Must use these ingredients: {', '.join(selected_ingredients)}
-                - Total calories should not exceed {calorie_limit} kcal
-                - Suitable for {time_of_day.lower()} time
 
                 Recipe Requirements:
                 - Must use these ingredients: {', '.join(selected_ingredients)}
@@ -1329,6 +1325,7 @@ elif app_mode == "Recipe Suggestions":
                     check_achievements(user, "recipe")
         else:
             st.warning("Please select ingredients first")
+            
     if st.session_state.generated_recipe:
         with st.expander("📖 View Full Recipe", expanded=True):
             st.text_area(
