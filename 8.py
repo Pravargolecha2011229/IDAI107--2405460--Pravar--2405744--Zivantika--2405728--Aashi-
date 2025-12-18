@@ -282,6 +282,9 @@ COOKING_QUIZ = [
 
 # Initialize session state
 
+if 'generated_recipe' not in st.session_state:
+    st.session_state.generated_recipe = None
+
 if 'user_manager' not in st.session_state:
     st.session_state.user_manager = UserDataManager()
 
@@ -1303,10 +1306,10 @@ elif app_mode == "Recipe Suggestions":
                 - Tips for portion control
                 """
                 
-                recipe = suggest_recipes(selected_ingredients, prompt)
+                recipe = model.generate_content(prompt).text
                 if recipe:
+                    st.session_state.generated_recipe = recipe
                     st.success("Recipe generated successfully!")
-                    st.write(recipe)
                     
                     # Save enhanced recipe data to user's profile
                     user = st.session_state.users[st.session_state.current_user]
@@ -2134,6 +2137,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
