@@ -375,48 +375,44 @@ if 'current_user' not in st.session_state:
     st.session_state.current_user = None
 
 # Helper Functions
-def generate_recipe_with_timeout(prompt, timeout=60):  # 66 seconds = 1 min 
+def generate_recipe_with_timeout(prompt, timeout=60):
     try:
         with st.spinner("🔄 Generating your recipe..."):
-            # Progress bar
             progress_bar = st.progress(0)
             progress_text = st.empty()
-            
-            start_time = time.time()
-            recipe = None
-            
-            # Simulate progress while waiting for recipe
-            while time.time() - start_time < timeout:
-                elapsed = time.time() - start_time
-                progress = int((elapsed / timeout) * 100)
+
+            # Simulated progress (UI only, no extra API calls)
+            for progress in range(0, 90, 5):
                 progress_bar.progress(progress)
                 progress_text.text(f"Processing... {progress}%")
-                
-                if not recipe:
-                    try:
-                        recipe = model.generate_content(prompt).text
-                        if recipe:
-                            progress_bar.progress(100)
-                            progress_text.text("Recipe generated successfully!")
-                            return recipe
-                    except Exception as e:
-                        continue
-                
-                time.sleep(0.1)
-            
-            # If we reach here, we've timed out
-            raise TimeoutError
-            
-    except TimeoutError:
-        progress_bar.empty()
-        progress_text.empty()
-        st.error("⚠️ Recipe generation timed out. Please check your internet connection or try reloading the page.")
-        return None
+                time.sleep(0.2)
+
+            # 🔴 SINGLE Gemini API call (THIS IS THE FIX)
+            recipe = model.generate_content(prompt).text
+
+            progress_bar.progress(100)
+            progress_text.text("Recipe generated successfully!")
+
+            return recipe
+
     except Exception as e:
-        progress_bar.empty()
-        progress_text.empty()
-        st.error(f"❌ Error generating recipe: {str(e)}")
+        # Cleanup UI
+        try:
+            progress_bar.empty()
+            progress_text.empty()
+        except:
+            pass
+
+        # Handle quota errors explicitly
+        if "429" in str(e) or "ResourceExhausted" in str(e):
+            st.error("🚫 API limit reached. Please wait a few seconds and try again.")
+        elif "Timeout" in str(e):
+            st.error("⚠️ Recipe generation timed out. Please try again.")
+        else:
+            st.error(f"❌ Error generating recipe: {str(e)}")
+
         return None
+
 
 
 def get_recipe_from_gemini(ingredients, dietary_restrictions=None):
@@ -2154,6 +2150,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
