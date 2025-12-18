@@ -372,7 +372,7 @@ if 'current_user' not in st.session_state:
     st.session_state.current_user = None
 
 # Helper Functions
-def generate_recipe_with_timeout(prompt, timeout=76):  # 76 seconds = 1 min 16 seconds
+def generate_recipe_with_timeout(prompt, timeout=60):  # 76 seconds = 1 min 
     try:
         with st.spinner("🔄 Generating your recipe..."):
             # Progress bar
@@ -1329,7 +1329,13 @@ elif app_mode == "Recipe Suggestions":
                     check_achievements(user, "recipe")
         else:
             st.warning("Please select ingredients first")
-
+    if st.session_state.generated_recipe:
+        with st.expander("📖 View Full Recipe", expanded=True):
+            st.text_area(
+                "Complete Recipe",
+                st.session_state.generated_recipe,
+                height=600
+            )
 
 elif app_mode == "Leftover Management":
     st.title("♻️ Leftover Management")
@@ -2137,6 +2143,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
