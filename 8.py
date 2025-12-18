@@ -55,7 +55,7 @@ st.set_page_config(
 )
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyDoFejuywRKx2AqP2k_TGGv5WXv37nbmRs"
+GEMINI_API_KEY = "AIzaSyD-hgENNyy567zumtpr2pDXgQLHfRCBvWE"
 genai.configure(api_key=GEMINI_API_KEY)
 
 try:
@@ -2134,6 +2134,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
