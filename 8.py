@@ -282,6 +282,9 @@ COOKING_QUIZ = [
 
 # Initialize session state
 
+if "last_gemini_call" not in st.session_state:
+    st.session_state.last_gemini_call = 0
+
 if 'generated_recipe' not in st.session_state:
     st.session_state.generated_recipe = None
 
@@ -372,7 +375,7 @@ if 'current_user' not in st.session_state:
     st.session_state.current_user = None
 
 # Helper Functions
-def generate_recipe_with_timeout(prompt, timeout=60):  # 76 seconds = 1 min 
+def generate_recipe_with_timeout(prompt, timeout=60):  # 66 seconds = 1 min 
     try:
         with st.spinner("🔄 Generating your recipe..."):
             # Progress bar
@@ -1501,7 +1504,18 @@ elif app_mode == "Leftover Management":
         6. Storage suggestions for leftovers
         """
         
-        recipe = generate_recipe_with_timeout(prompt)
+        import time
+
+        COOLDOWN_SECONDS = 30
+        current_time = time.time()
+
+        if current_time - st.session_state.last_gemini_call < COOLDOWN_SECONDS:
+            wait_time = int(COOLDOWN_SECONDS - (current_time - st.session_state.last_gemini_call))
+            st.warning(f"⏳ Please wait {wait_time} seconds before generating another recipe.")
+        else:
+            recipe = generate_recipe_with_timeout(prompt)
+            st.session_state.last_gemini_call = current_time
+
         if recipe:
             with st.expander("📖 View Generated Recipe", expanded=True):
                 st.success("✨ Recipe generated successfully!")
@@ -2140,6 +2154,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
