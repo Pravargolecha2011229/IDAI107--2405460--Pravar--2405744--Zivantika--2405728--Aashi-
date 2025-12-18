@@ -60,7 +60,7 @@ genai.configure(api_key=GEMINI_API_KEY)
 
 try:
     model = genai.GenerativeModel(
-        model_name="gemini-1.5-pro",
+        model_name="gemini-2.5-flash",
         generation_config={
             "temperature": 0.9,
             "top_p": 1,
@@ -2134,4 +2134,5 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
