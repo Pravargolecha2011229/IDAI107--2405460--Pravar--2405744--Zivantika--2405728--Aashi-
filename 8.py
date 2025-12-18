@@ -415,7 +415,7 @@ def generate_recipe_with_timeout(prompt, timeout=76):  # 76 seconds = 1 min 16 s
 
 def get_recipe_from_gemini(ingredients, dietary_restrictions=None):
     """Generate recipe using Gemini API"""
-    prompt = f"Create a detailed recipe using these ingredients: {', '.join(ingredients)}"
+    prompt = f"Create a detailed recipe using these ingredients also give the recipe properly including each and every detail of it also do not skip any mention or part of the recipe: {', '.join(ingredients)}"
     if dietary_restrictions:
         prompt += f"\nDietary restrictions: {', '.join(dietary_restrictions)}"
     
@@ -2134,6 +2134,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
