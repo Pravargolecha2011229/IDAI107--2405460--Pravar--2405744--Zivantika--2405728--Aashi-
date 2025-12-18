@@ -329,7 +329,7 @@ if 'events' not in st.session_state:
 def check_login_required():
     """Check if user is logged in, if not show login page"""
     if not st.session_state.current_user:
-        st.title("🍽️ Welcome to FutureEats")
+        st.title("🍽️ Welcome to PlatePals")
         st.write("Please login or sign up to continue")
         
         login_tab, signup_tab = st.tabs(["Login", "Sign Up"])
@@ -614,7 +614,7 @@ def award_achievement(user_data, achievement):
 
 # Sidebar
 def show_sidebar():
-    st.sidebar.title("🍽️ FutureEats")
+    st.sidebar.title("🍽️ PlatePals")
     st.sidebar.header("Serve Smart. Waste Less. Know More.")
 
     # User info
@@ -955,7 +955,7 @@ if app_mode == "Profile":
 # Main Content
 
 if app_mode == "Dashboard":
-    st.title("🍽️ FutureEats ")
+    st.title("🍽️ PlatePals ")
     
     # Key Metrics
  
@@ -2134,6 +2134,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
