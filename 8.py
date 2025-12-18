@@ -49,7 +49,7 @@ ACHIEVEMENTS = {
 
 # Page configuration
 st.set_page_config(
-    page_title="FutureEats - Smart Restaurant Management",
+    page_title="Plate Pals - Smart Restaurant Management",
     page_icon="🍽️",
     layout="wide"
 )
@@ -2134,5 +2134,6 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
