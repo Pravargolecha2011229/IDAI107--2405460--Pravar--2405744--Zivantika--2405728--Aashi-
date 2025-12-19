@@ -1384,7 +1384,7 @@ elif app_mode == "Recipe Suggestions":
                 line-height: 1.6;
             ">
             
-            {st.session_state.generated_recipe.replace('\n', '<br>')}
+            {recipe_html}
             </div>
             """,
             unsafe_allow_html=True
@@ -2207,6 +2207,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
