@@ -54,9 +54,54 @@ st.set_page_config(
     layout="wide"
 )
 
+# Top banner for improved UI
+try:
+    st.markdown(
+        "<div style='text-align:center'>\n" 
+        "<h1 style='margin:0'>🍽️ PlatePals</h1>\n"
+        "<p style='margin:0;color:gray'>Serve Smart. Waste Less. Know More.</p>\n"
+        "</div>",
+        unsafe_allow_html=True,
+    )
+except Exception:
+    # If the environment doesn't allow unsafe HTML, fall back to simple title
+    st.title("🍽️ PlatePals - Smart Restaurant Management")
+
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyD-hgENNyy567zumtpr2pDXgQLHfRCBvWE"
-genai.configure(api_key=GEMINI_API_KEY)
+# Load Gemini API key from Streamlit secrets or fallback to streamlit/secrets.toml
+GEMINI_API_KEY = None
+try:
+    GEMINI_API_KEY = st.secrets.get("GEMINI_API_KEY")
+except Exception:
+    GEMINI_API_KEY = None
+
+# If user placed secrets in a non-dot folder named 'streamlit', attempt to read it
+if not GEMINI_API_KEY:
+    try:
+        import os
+        try:
+            import tomllib as toml_lib  # Python 3.11+
+        except Exception:
+            try:
+                import toml as toml_lib  # fallback if package installed
+            except Exception:
+                toml_lib = None
+
+        alt_path = os.path.join(os.getcwd(), "streamlit", "secrets.toml")
+        if os.path.exists(alt_path) and toml_lib:
+            with open(alt_path, "rb") as f:
+                # tomllib requires bytes, toml package accepts str
+                parsed = toml_lib.loads(f.read().decode() if hasattr(f.read, '__call__') else f.read())
+                # normalize parsed depending on parser
+                if isinstance(parsed, dict):
+                    GEMINI_API_KEY = parsed.get("GEMINI_API_KEY") or parsed.get("gemini_api_key")
+    except Exception:
+        GEMINI_API_KEY = None
+
+if not GEMINI_API_KEY:
+    st.error("Gemini API key not found. Add `GEMINI_API_KEY` to .streamlit/secrets.toml or streamlit/secrets.toml")
+else:
+    genai.configure(api_key=GEMINI_API_KEY)
 
 try:
     model = genai.GenerativeModel(
