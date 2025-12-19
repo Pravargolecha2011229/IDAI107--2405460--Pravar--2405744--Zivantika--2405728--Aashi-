@@ -13,3 +13,4 @@ simplejson>=3.19.2
 black==23.12.1  # Code formatting
 pylint==3.0.3   # Code analysis
 pytest==7.4.4   # Testing
+openai
