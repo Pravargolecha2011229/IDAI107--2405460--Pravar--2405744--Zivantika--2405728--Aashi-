@@ -1372,11 +1372,23 @@ elif app_mode == "Recipe Suggestions":
             
     if st.session_state.generated_recipe:
         with st.expander("📖 View Full Recipe", expanded=True):
-            st.text_area(
-                "Complete Recipe",
-                st.session_state.generated_recipe,
-                height=600
-            )
+            st.markdown(
+            f"""
+            <div style="
+                max-height: 600px;
+                overflow-y: auto;
+                padding: 1rem;
+                background-color: #1f2933;
+                border-radius: 10px;
+                color: #f9fafb;
+                line-height: 1.6;
+            ">
+            
+            {st.session_state.generated_recipe.replace('\n', '<br>')}
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
 
 elif app_mode == "Leftover Management":
     st.title("♻️ Leftover Management")
@@ -2195,6 +2207,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
