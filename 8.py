@@ -1371,6 +1371,8 @@ elif app_mode == "Recipe Suggestions":
             st.warning("Please select ingredients first")
             
     if st.session_state.generated_recipe:
+        recipe_html = st.session_state.generated_recipe.replace("\n", "<br>")
+        
         with st.expander("📖 View Full Recipe", expanded=True):
             st.markdown(
             f"""
@@ -2207,6 +2209,7 @@ elif app_mode == "Dessert Generator":
                     check_achievements(user, "dessert")
         else:
             st.warning("Please select a dessert type and at least one ingredient")
+
 
 
 
